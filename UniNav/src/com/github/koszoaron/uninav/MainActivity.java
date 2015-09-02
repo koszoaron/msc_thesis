@@ -1,5 +1,9 @@
 package com.github.koszoaron.uninav;
 
+import org.osmdroid.ResourceProxy;
+import org.osmdroid.util.ResourceProxyImpl;
+import org.osmdroid.views.MapView;
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -10,7 +14,10 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main);
+//		setContentView(R.layout.activity_main);
+		ResourceProxy rp = new ResourceProxyImpl(getApplicationContext());
+		MapView mv = new MapView(MainActivity.this, 256, rp);
+		setContentView(mv);
 	}
 
 	@Override
