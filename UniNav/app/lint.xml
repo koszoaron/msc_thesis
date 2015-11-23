@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="WrongCall">
+        <ignore path="src/com/github/koszoaron/uninav/fp/view/PaintThread.java" />
+        <ignore path="src/de/uvwxy/paintbox/PaintThread.java" />
+    </issue>
+</lint>

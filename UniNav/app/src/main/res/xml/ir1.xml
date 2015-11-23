@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <bounds minlat='46.2462207' minlon='20.1462436' maxlat='46.2472705' maxlon='20.1476115' origin='CGImap 0.4.0 (9012 thorn-02.openstreetmap.org)' />
+  <node id='-2068' action='modify' visible='true' lat='46.24697529236' lon='20.14677000742'>
+    <tag k='indoor' v='wifi' />
+    <tag k='level' v='1' />
+    <tag k='name' v='511' />
+  </node>
+  <node id='-1783' action='modify' visible='true' lat='46.24677012307' lon='20.1466325672'>
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='59' />
+  </node>
+  <node id='-1781' action='modify' visible='true' lat='46.24675983979' lon='20.14669969074'>
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='56 - Konyha' />
+  </node>
+  <node id='-1779' action='modify' visible='true' lat='46.24682052961' lon='20.14674545003'>
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='55 - WC' />
+  </node>
+  <node id='-1759' action='modify' visible='true' lat='46.24687827577' lon='20.14675463925' />
+  <node id='-1755' action='modify' visible='true' lat='46.24694216345' lon='20.14680329558'>
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='F1' />
+  </node>
+  <node id='-1753' action='modify' visible='true' lat='46.24694224212' lon='20.14673640396'>
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='51.2' />
+  </node>
+  <node id='-1751' action='modify' visible='true' lat='46.24696065132' lon='20.14678441121'>
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='51.1' />
+  </node>
+  <node id='-1236' action='modify' visible='true' lat='46.24696699076' lon='20.14680510135' />
+  <node id='-1234' action='modify' visible='true' lat='46.2469210078' lon='20.14677044467' />
+  <node id='-1232' action='modify' visible='true' lat='46.24694750986' lon='20.14669961577' />
+  <node id='-1230' action='modify' visible='true' lat='46.24699251979' lon='20.14673510555' />
+  <node id='-1228' action='modify' visible='true' lat='46.24694193002' lon='20.14678621344' />
+  <node id='-1226' action='modify' visible='true' lat='46.24693254775' lon='20.14681263672' />
+  <node id='-1224' action='modify' visible='true' lat='46.2468876807' lon='20.14677998065' />
+  <node id='-1222' action='modify' visible='true' lat='46.24689757401' lon='20.14675298068' />
+  <node id='-1220' action='modify' visible='true' lat='46.24689884869' lon='20.14666124708' />
+  <node id='-1218' action='modify' visible='true' lat='46.24686715741' lon='20.14672998877' />
+  <node id='-1216' action='modify' visible='true' lat='46.24686337569' lon='20.14684559003' />
+  <node id='-1214' action='modify' visible='true' lat='46.2468332777' lon='20.14682302289' />
+  <node id='-1212' action='modify' visible='true' lat='46.24682874063' lon='20.14669984136' />
+  <node id='-1210' action='modify' visible='true' lat='46.24685603319' lon='20.14662748764' />
+  <node id='-1208' action='modify' visible='true' lat='46.24674593923' lon='20.14663644924' />
+  <node id='-1206' action='modify' visible='true' lat='46.24677350682' lon='20.1465624168' />
+  <node id='-1204' action='modify' visible='true' lat='46.24685850489' lon='20.14675374871' />
+  <node id='-1202' action='modify' visible='true' lat='46.24683126637' lon='20.14673333331' />
+  <node id='-1200' action='modify' visible='true' lat='46.24681865451' lon='20.14676667283' />
+  <node id='-1198' action='modify' visible='true' lat='46.24684626594' lon='20.14678735702' />
+  <node id='-1196' action='modify' visible='true' lat='46.24680072203' lon='20.1467096822' />
+  <node id='-1194' action='modify' visible='true' lat='46.24678771605' lon='20.14674330667' />
+  <node id='-1192' action='modify' visible='true' lat='46.2467416083' lon='20.1467082826' />
+  <node id='-1190' action='modify' visible='true' lat='46.24675441723' lon='20.14667437317' />
+  <node id='-1188' action='modify' visible='true' lat='46.24674120978' lon='20.14665012699' />
+  <node id='-1186' action='modify' visible='true' lat='46.24669751536' lon='20.14661796719' />
+  <node id='-1184' action='modify' visible='true' lat='46.24673119701' lon='20.14652905617' />
+  <node id='-1182' action='modify' visible='true' lat='46.24667280454' lon='20.14659930348' />
+  <node id='-1180' action='modify' visible='true' lat='46.24670641896' lon='20.14650951907' />
+  <node id='-1178' action='modify' visible='true' lat='46.24664897688' lon='20.14658157216' />
+  <node id='-1176' action='modify' visible='true' lat='46.24668298632' lon='20.14649104283' />
+  <node id='-1174' action='modify' visible='true' lat='46.24662573326' lon='20.1465638388' />
+  <node id='-1172' action='modify' visible='true' lat='46.24665984703' lon='20.14647279788' />
+  <node id='-1170' action='modify' visible='true' lat='46.24660194929' lon='20.14654537065' />
+  <node id='-1168' action='modify' visible='true' lat='46.24663625258' lon='20.14645419405' />
+  <node id='-1166' action='modify' visible='true' lat='46.24657869609' lon='20.14652798851' />
+  <node id='-1164' action='modify' visible='true' lat='46.24661315218' lon='20.14643597979' />
+  <node id='-1162' action='modify' visible='true' lat='46.24655522659' lon='20.14651010704' />
+  <node id='-1160' action='modify' visible='true' lat='46.24658986402' lon='20.14641761748' />
+  <node id='-1158' action='modify' visible='true' lat='46.24653756592' lon='20.14649576612' />
+  <node id='-1156' action='modify' visible='true' lat='46.24656562097' lon='20.14639850228' />
+  <node id='-1154' action='modify' visible='true' lat='46.24650899517' lon='20.14647396078' />
+  <node id='-1152' action='modify' visible='true' lat='46.24654348695' lon='20.14638105001' />
+  <node id='-1150' action='modify' visible='true' lat='46.24647533805' lon='20.14644873181' />
+  <node id='-1148' action='modify' visible='true' lat='46.24653106604' lon='20.14649048806' />
+  <node id='-1146' action='modify' visible='true' lat='46.24652220848' lon='20.14653676503' />
+  <node id='-1144' action='modify' visible='true' lat='46.24646083581' lon='20.14648996415' />
+  <node id='-1142' action='modify' visible='true' lat='46.2465505853' lon='20.14655813651' />
+  <node id='-1140' action='modify' visible='true' lat='46.24653777632' lon='20.14659461051' />
+  <node id='-1138' action='modify' visible='true' lat='46.24655344318' lon='20.14667750815' />
+  <node id='-1136' action='modify' visible='true' lat='46.24658775544' lon='20.14666162483' />
+  <node id='-1134' action='modify' visible='true' lat='46.24657179349' lon='20.14657670879' />
+  <node id='-1132' action='modify' visible='true' lat='46.24661435868' lon='20.14660919345' />
+  <node id='-1130' action='modify' visible='true' lat='46.24660489975' lon='20.14663540914' />
+  <node id='-1128' action='modify' visible='true' lat='46.24658457292' lon='20.14664469416' />
+  <node id='-1126' action='modify' visible='true' lat='46.24692984811' lon='20.14674681822' />
+  <node id='-1124' action='modify' visible='true' lat='46.24697017901' lon='20.14671749012' />
+  <node id='-1122' action='modify' visible='true' lat='46.24695290498' lon='20.14676462927' />
+  <node id='-1120' action='modify' visible='true' lat='46.24693132279' lon='20.14677821892'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1118' action='modify' visible='true' lat='46.24694443399' lon='20.14678810064' />
+  <node id='-1116' action='modify' visible='true' lat='46.2469488384' lon='20.14677589692'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1114' action='modify' visible='true' lat='46.2469367031' lon='20.14675211359'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1112' action='modify' visible='true' lat='46.24692390519' lon='20.1466810038' />
+  <node id='-1110' action='modify' visible='true' lat='46.24690204814' lon='20.14674075055'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1108' action='modify' visible='true' lat='46.24684622533' lon='20.14671330644'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1106' action='modify' visible='true' lat='46.24676410278' lon='20.1466503551'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1104' action='modify' visible='true' lat='46.24674823108' lon='20.14669074993'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1102' action='modify' visible='true' lat='46.2469079429' lon='20.14676070808'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1100' action='modify' visible='true' lat='46.24682623064' lon='20.14672943404'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1098' action='modify' visible='true' lat='46.24693269957' lon='20.1467640381' />
+  <node id='-1096' action='modify' visible='true' lat='46.24693561236' lon='20.14676617842'>
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='51' />
+  </node>
+  <node id='-1094' action='modify' visible='true' lat='46.24692647153' lon='20.14679167688' />
+  <node id='-1092' action='modify' visible='true' lat='46.24689263789' lon='20.14676645193'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1090' action='modify' visible='true' lat='46.24693709634' lon='20.14679982654'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1088' action='modify' visible='true' lat='46.24690325508' lon='20.14677436766' />
+  <node id='-1086' action='modify' visible='true' lat='46.24691251212' lon='20.14674882124'>
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='52' />
+  </node>
+  <node id='-1084' action='modify' visible='true' lat='46.2468505957' lon='20.14670162652'>
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='58' />
+  </node>
+  <node id='-1082' action='modify' visible='true' lat='46.24684172539' lon='20.14672555756' />
+  <node id='-1080' action='modify' visible='true' lat='46.24686281805' lon='20.14674190473'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='-1078' action='modify' visible='true' lat='46.24683065825' lon='20.14671705517' />
+  <node id='-1076' action='modify' visible='true' lat='46.24675949478' lon='20.14666245038' />
+  <node id='-1074' action='modify' visible='true' lat='46.24674992767' lon='20.1466549843' />
+  <node id='-1072' action='modify' visible='true' lat='46.24673922163' lon='20.14668397027' />
+  <node id='27191020' action='delete' timestamp='2010-09-10T09:38:29Z' uid='201021' user='pethy' visible='true' version='3' changeset='5739586' lat='46.2478387' lon='20.1475714' />
+  <node id='30849580' action='delete' timestamp='2011-10-24T08:43:00Z' uid='275821' user='Ramzes' visible='true' version='8' changeset='9641297' lat='46.2430963' lon='20.1434443' />
+  <node id='459810776' action='delete' timestamp='2011-08-18T17:30:52Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2437858' lon='20.1439886' />
+  <node id='459810784' action='delete' timestamp='2010-10-07T10:01:55Z' uid='201021' user='pethy' visible='true' version='3' changeset='5976638' lat='46.2466297' lon='20.1480685' />
+  <node id='459810785' action='delete' timestamp='2015-07-28T08:12:46Z' uid='2017065' user='Adam Harangozó' visible='true' version='5' changeset='32924885' lat='46.2460532' lon='20.1456839' />
+  <node id='459810786' action='delete' timestamp='2015-07-28T12:45:12Z' uid='2017065' user='Adam Harangozó' visible='true' version='5' changeset='32931523' lat='46.2449631' lon='20.1448966' />
+  <node id='459810788' action='delete' timestamp='2015-07-26T20:11:01Z' uid='2017065' user='Adam Harangozó' visible='true' version='5' changeset='32896626' lat='46.2445941' lon='20.1446068' />
+  <node id='899172244' action='delete' timestamp='2013-02-04T22:59:18Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='14916563' lat='46.2477687' lon='20.1476914' />
+  <node id='899172246' action='delete' timestamp='2013-02-04T22:59:18Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='14916563' lat='46.2476397' lon='20.1477731' />
+  <node id='899172264' action='delete' timestamp='2013-02-04T22:59:18Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='14916563' lat='46.247117' lon='20.1471792' />
+  <node id='899603387' action='delete' timestamp='2013-02-09T21:54:11Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='14972812' lat='46.2475583' lon='20.147796' />
+  <node id='899603390' action='delete' timestamp='2013-02-09T21:54:11Z' uid='408450' user='BáthoryPéter' visible='true' version='5' changeset='14972812' lat='46.2471866' lon='20.1473624' />
+  <node id='899603413' action='delete' timestamp='2010-12-29T21:06:39Z' uid='201021' user='pethy' visible='true' version='4' changeset='6803145' lat='46.2468627' lon='20.1482479' />
+  <node id='899603420' action='delete' timestamp='2013-02-09T21:54:11Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='14972812' lat='46.2472088' lon='20.1476282' />
+  <node id='899603422' action='delete' timestamp='2013-02-09T21:54:11Z' uid='408450' user='BáthoryPéter' visible='true' version='5' changeset='14972812' lat='46.2474762' lon='20.1479439' />
+  <node id='910412643' action='delete' timestamp='2011-01-01T14:18:28Z' uid='201021' user='pethy' visible='true' version='3' changeset='6828084' lat='46.2464548' lon='20.1459404' />
+  <node id='910412644' action='delete' timestamp='2010-12-30T21:15:56Z' uid='201021' user='pethy' visible='true' version='3' changeset='6814172' lat='46.2473415' lon='20.1465572' />
+  <node id='910412645' action='delete' timestamp='2011-01-01T14:18:29Z' uid='201021' user='pethy' visible='true' version='5' changeset='6828084' lat='46.2469405' lon='20.144656' />
+  <node id='910412646' action='delete' timestamp='2010-12-30T21:15:56Z' uid='201021' user='pethy' visible='true' version='3' changeset='6814172' lat='46.2476174' lon='20.1461051' />
+  <node id='910426251' action='delete' timestamp='2010-12-31T09:13:34Z' uid='201021' user='pethy' visible='true' version='3' changeset='6817482' lat='46.2478201' lon='20.1462057' />
+  <node id='910426254' action='delete' timestamp='2014-08-10T19:34:20Z' uid='2249983' user='Lariuss' visible='true' version='3' changeset='24662271' lat='46.247667' lon='20.147767' />
+  <node id='910426257' action='delete' timestamp='2014-08-10T19:34:20Z' uid='2249983' user='Lariuss' visible='true' version='3' changeset='24662271' lat='46.2482297' lon='20.1466831' />
+  <node id='910426259' action='delete' timestamp='2010-09-24T20:24:43Z' uid='201021' user='pethy' visible='true' version='2' changeset='5866247' lat='46.2475205' lon='20.1476059' />
+  <node id='910426270' action='delete' timestamp='2013-02-10T19:33:17Z' uid='408450' user='BáthoryPéter' visible='true' version='3' changeset='14985744' lat='46.2472338' lon='20.147201' />
+  <node id='910426273' action='delete' timestamp='2014-08-10T19:34:20Z' uid='2249983' user='Lariuss' visible='true' version='3' changeset='24662271' lat='46.2478124' lon='20.1475374' />
+  <node id='910426288' action='delete' timestamp='2014-08-10T19:34:20Z' uid='2249983' user='Lariuss' visible='true' version='3' changeset='24662271' lat='46.2480205' lon='20.1471304' />
+  <node id='929108623' action='delete' timestamp='2011-08-18T17:31:10Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2474532' lon='20.1468293' />
+  <node id='929108634' action='delete' timestamp='2011-08-18T17:31:10Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2398958' lon='20.1411278' />
+  <node id='929108635' action='delete' timestamp='2011-08-18T17:31:10Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2477021' lon='20.1469512' />
+  <node id='929108637' action='delete' timestamp='2011-08-18T17:31:10Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2410987' lon='20.1422421' />
+  <node id='929108640' action='delete' timestamp='2011-08-18T17:31:10Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2412913' lon='20.1421495' />
+  <node id='929108652' action='delete' timestamp='2011-08-18T17:31:10Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2398021' lon='20.1411921' />
+  <node id='929108653' action='delete' timestamp='2011-08-18T17:31:10Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2480638' lon='20.1471238' />
+  <node id='929108654' action='delete' timestamp='2011-08-18T17:31:10Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2398449' lon='20.1411509' />
+  <node id='929108655' action='delete' timestamp='2013-03-18T23:39:06Z' uid='579990' user='vaandor' visible='true' version='3' changeset='15414805' lat='46.240679' lon='20.1431024' />
+  <node id='929108656' action='delete' timestamp='2011-08-18T17:31:10Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2431453' lon='20.1435767' />
+  <node id='929108661' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.241278' lon='20.1421864' />
+  <node id='929108662' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2437535' lon='20.1440573' />
+  <node id='929108664' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2406298' lon='20.1416327' />
+  <node id='929108666' action='delete' timestamp='2011-10-24T08:43:01Z' uid='275821' user='Ramzes' visible='true' version='5' changeset='9641297' lat='46.2431055' lon='20.1435281' />
+  <node id='929108667' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2397232' lon='20.1413249' />
+  <node id='929108673' action='delete' timestamp='2013-03-18T23:39:06Z' uid='579990' user='vaandor' visible='true' version='2' changeset='15414805' lat='46.2407882' lon='20.1430357' />
+  <node id='929108677' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2473386' lon='20.1468402' />
+  <node id='929108688' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2459911' lon='20.145815' />
+  <node id='929108693' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2399475' lon='20.141133' />
+  <node id='929108697' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2446134' lon='20.1446731' />
+  <node id='929108698' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2476929' lon='20.1469905' />
+  <node id='929108701' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2411598' lon='20.1421619' />
+  <node id='929108703' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2445949' lon='20.144705' />
+  <node id='929108704' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2411254' lon='20.1421929' />
+  <node id='929108716' action='delete' timestamp='2011-08-18T17:31:11Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2449604' lon='20.1449392' />
+  <node id='929108718' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2437696' lon='20.144023' />
+  <node id='929108719' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2449467' lon='20.1449758' />
+  <node id='929108722' action='delete' timestamp='2015-07-28T12:45:12Z' uid='2017065' user='Adam Harangozó' visible='true' version='4' changeset='32931523' lat='46.244928' lon='20.1449929' />
+  <node id='929108724' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.247438' lon='20.1468646' />
+  <node id='929108726' action='delete' timestamp='2013-03-18T23:39:06Z' uid='579990' user='vaandor' visible='true' version='3' changeset='15414805' lat='46.2405698' lon='20.143098' />
+  <node id='929108727' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2480717' lon='20.1470838' />
+  <node id='929108731' action='delete' timestamp='2013-03-18T23:39:06Z' uid='579990' user='vaandor' visible='true' version='2' changeset='15414805' lat='46.2408622' lon='20.1429436' />
+  <node id='929108735' action='delete' timestamp='2011-10-24T08:43:01Z' uid='275821' user='Ramzes' visible='true' version='5' changeset='9641297' lat='46.2430116' lon='20.143467' />
+  <node id='929108736' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2473773' lon='20.1467787' />
+  <node id='929108740' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2473579' lon='20.1468094' />
+  <node id='929127292' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2545543' lon='20.1505757' />
+  <node id='929127294' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2500635' lon='20.1476814' />
+  <node id='929127297' action='delete' timestamp='2013-02-10T19:23:22Z' uid='408450' user='BáthoryPéter' visible='true' version='5' changeset='14985744' lat='46.2520325' lon='20.1488128' />
+  <node id='929127298' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2509294' lon='20.1479406' />
+  <node id='929127299' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2544944' lon='20.1505775' />
+  <node id='929127300' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2552831' lon='20.1492283' />
+  <node id='929127303' action='delete' timestamp='2013-02-10T19:23:22Z' uid='408450' user='BáthoryPéter' visible='true' version='3' changeset='14985744' lat='46.2530299' lon='20.1496052' />
+  <node id='929127304' action='delete' timestamp='2011-08-18T17:31:12Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2545389' lon='20.1505406' />
+  <node id='929127305' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2539009' lon='20.1503538' />
+  <node id='929127306' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2539146' lon='20.1503172' />
+  <node id='929127308' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2507565' lon='20.1478573' />
+  <node id='929127311' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2543961' lon='20.1506376' />
+  <node id='929127314' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2500547' lon='20.1477209' />
+  <node id='929127315' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2556094' lon='20.1486075' />
+  <node id='929127319' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.250766' lon='20.1478181' />
+  <node id='929127321' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='5' changeset='9058821' lat='46.2557501' lon='20.1482838' />
+  <node id='929127322' action='delete' timestamp='2013-02-10T19:23:22Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='14985744' lat='46.252391' lon='20.1490687' />
+  <node id='929127324' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2545969' lon='20.1505158' />
+  <node id='929127325' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2545031' lon='20.1506172' />
+  <node id='929127326' action='delete' timestamp='2013-04-05T10:08:07Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='15617838' lat='46.2492346' lon='20.1473939' />
+  <node id='929127328' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2548618' lon='20.1499436' />
+  <node id='929127333' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2544469' lon='20.1505918' />
+  <node id='929127335' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2552622' lon='20.1491998' />
+  <node id='929127336' action='delete' timestamp='2013-02-10T19:23:22Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='14985744' lat='46.2523754' lon='20.1491037' />
+  <node id='929127337' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2505654' lon='20.1477629' />
+  <node id='929127340' action='delete' timestamp='2011-08-18T17:31:13Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2505604' lon='20.1478038' />
+  <node id='929127342' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.250655' lon='20.1478206' />
+  <node id='929127343' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.254575' lon='20.1504888' />
+  <node id='929127347' action='delete' timestamp='2013-02-10T19:23:22Z' uid='408450' user='BáthoryPéter' visible='true' version='5' changeset='14985744' lat='46.2520481' lon='20.1487779' />
+  <node id='929127348' action='delete' timestamp='2013-04-05T10:08:07Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='15617838' lat='46.2492228' lon='20.1474318' />
+  <node id='929127350' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2509166' lon='20.1479778' />
+  <node id='929127351' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2555879' lon='20.1485799' />
+  <node id='929127352' action='delete' timestamp='2013-02-10T19:23:22Z' uid='408450' user='BáthoryPéter' visible='true' version='3' changeset='14985744' lat='46.2530454' lon='20.1495702' />
+  <node id='929127353' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2506632' lon='20.1477808' />
+  <node id='929127354' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2548847' lon='20.1499689' />
+  <node id='929138429' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='5' changeset='9058821' lat='46.2593509' lon='20.1415636' />
+  <node id='929138432' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2603917' lon='20.1396683' />
+  <node id='929138441' action='delete' timestamp='2013-03-15T22:21:33Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='15378581' lat='46.2584754' lon='20.1432352' />
+  <node id='929138443' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2562871' lon='20.1472845' />
+  <node id='929138445' action='delete' timestamp='2013-03-15T22:21:33Z' uid='408450' user='BáthoryPéter' visible='true' version='6' changeset='15378581' lat='46.2574784' lon='20.1451657' />
+  <node id='929138447' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2594194' lon='20.1414336' />
+  <node id='929138452' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2594414' lon='20.1414603' />
+  <node id='929138459' action='delete' timestamp='2011-08-18T17:31:14Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.256308' lon='20.147313' />
+  <node id='929138460' action='delete' timestamp='2011-08-18T17:31:15Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2568341' lon='20.1462613' />
+  <node id='929138473' action='delete' timestamp='2015-02-01T13:31:10Z' uid='1719518' user='itamas80' visible='true' version='6' changeset='28545149' lat='46.2593714' lon='20.1415932'>
+    <tag k='name' v='Rókusi templom' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='929138474' action='delete' timestamp='2011-08-18T17:31:15Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2568587' lon='20.1462829' />
+  <node id='929138480' action='delete' timestamp='2011-08-18T17:31:15Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2616358' lon='20.1373402' />
+  <node id='929138484' action='delete' timestamp='2011-08-18T17:31:15Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2559536' lon='20.147912' />
+  <node id='929138485' action='delete' timestamp='2011-08-18T17:31:15Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2559735' lon='20.147942' />
+  <node id='929138490' action='delete' timestamp='2011-08-18T17:31:15Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2563503' lon='20.1471586' />
+  <node id='929138495' action='delete' timestamp='2011-08-18T17:31:15Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2603697' lon='20.1396416' />
+  <node id='929138503' action='delete' timestamp='2013-03-15T22:21:34Z' uid='408450' user='BáthoryPéter' visible='true' version='6' changeset='15378581' lat='46.257454' lon='20.1451439' />
+  <node id='929138514' action='delete' timestamp='2011-08-18T17:31:16Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2606899' lon='20.1391071' />
+  <node id='929138516' action='delete' timestamp='2011-08-18T17:31:16Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.255769' lon='20.1483152' />
+  <node id='929138518' action='delete' timestamp='2011-08-18T17:31:16Z' uid='55843' user='flaktack' visible='true' version='3' changeset='9058821' lat='46.2616138' lon='20.1373135' />
+  <node id='929138528' action='delete' timestamp='2013-03-15T22:21:34Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='15378581' lat='46.2584974' lon='20.1432619' />
+  <node id='929138533' action='delete' timestamp='2011-08-18T17:31:16Z' uid='55843' user='flaktack' visible='true' version='4' changeset='9058821' lat='46.2563739' lon='20.1471823' />
+  <node id='933075225' action='delete' timestamp='2012-08-28T16:40:42Z' uid='55843' user='flaktack' visible='true' version='5' changeset='12894776' lat='46.2642443' lon='20.1311313' />
+  <node id='936188121' action='delete' timestamp='2015-07-28T12:45:13Z' uid='2017065' user='Adam Harangozó' visible='true' version='5' changeset='32931523' lat='46.244926' lon='20.144991' />
+  <node id='940045158' action='delete' timestamp='2013-02-09T21:54:11Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='14972812' lat='46.2471812' lon='20.1470703' />
+  <node id='1071551784' action='delete' timestamp='2013-02-09T21:54:11Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='14972812' lat='46.2473409' lon='20.1477841' />
+  <node id='1071551797' action='delete' timestamp='2013-02-09T21:54:11Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='14972812' lat='46.2472529' lon='20.1476795' />
+  <node id='1071551806' action='delete' timestamp='2013-02-09T21:54:11Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='14972812' lat='46.2472066' lon='20.1477614' />
+  <node id='1071551819' action='delete' timestamp='2013-02-09T21:54:11Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='14972812' lat='46.2472991' lon='20.1478649' />
+  <node id='1076909160' action='delete' timestamp='2014-08-20T05:15:28Z' uid='1092768' user='kla25' visible='true' version='3' changeset='24875515' lat='46.2471683' lon='20.1466165' />
+  <node id='1076909161' action='delete' timestamp='2014-08-20T05:15:28Z' uid='1092768' user='kla25' visible='true' version='3' changeset='24875515' lat='46.2472436' lon='20.1467163' />
+  <node id='1076909162' action='delete' timestamp='2014-08-20T05:15:28Z' uid='1092768' user='kla25' visible='true' version='4' changeset='24875515' lat='46.2471802' lon='20.1465771' />
+  <node id='1076909163' action='delete' timestamp='2014-08-20T05:15:28Z' uid='1092768' user='kla25' visible='true' version='5' changeset='24875515' lat='46.247224' lon='20.1467469' />
+  <node id='1076909164' action='delete' timestamp='2014-08-20T05:15:28Z' uid='1092768' user='kla25' visible='true' version='3' changeset='24875515' lat='46.2472623' lon='20.1466849' />
+  <node id='1076909165' action='delete' timestamp='2014-08-20T05:15:28Z' uid='1092768' user='kla25' visible='true' version='5' changeset='24875515' lat='46.2472826' lon='20.1466572' />
+  <node id='1076909166' action='delete' timestamp='2014-08-20T05:15:28Z' uid='1092768' user='kla25' visible='true' version='4' changeset='24875515' lat='46.2471401' lon='20.146688' />
+  <node id='1076909167' action='delete' timestamp='2014-08-20T05:15:28Z' uid='1092768' user='kla25' visible='true' version='3' changeset='24875515' lat='46.247155' lon='20.1466527' />
+  <node id='1076933683' timestamp='2011-01-01T14:17:24Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2465305' lon='20.1467046' />
+  <node id='1076933697' action='delete' timestamp='2011-01-01T14:17:25Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2464194' lon='20.1462956' />
+  <node id='1076933705' timestamp='2011-01-01T14:17:25Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2468821' lon='20.1469611' />
+  <node id='1076933716' action='delete' timestamp='2011-01-01T14:17:26Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2465088' lon='20.1463537' />
+  <node id='1076933736' action='delete' timestamp='2011-01-01T14:17:27Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2459828' lon='20.1471002' />
+  <node id='1076933745' action='delete' timestamp='2011-01-01T14:17:27Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2460253' lon='20.1470713' />
+  <node id='1076933784' timestamp='2011-01-01T14:17:29Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2467362' lon='20.1470567' />
+  <node id='1076933792' action='delete' timestamp='2011-01-01T14:17:29Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2460692' lon='20.1469347' />
+  <node id='1076933807' action='delete' timestamp='2011-01-01T14:17:30Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2463626' lon='20.1474134' />
+  <node id='1076933810' timestamp='2011-01-01T14:17:30Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.246873' lon='20.1470266' />
+  <node id='1076933820' timestamp='2011-01-01T14:17:30Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2465753' lon='20.1471577' />
+  <node id='1076933822' action='delete' timestamp='2011-01-01T14:17:30Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2461634' lon='20.1473356' />
+  <node id='1076933833' action='delete' timestamp='2011-01-01T14:17:31Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2458563' lon='20.1469696' />
+  <node id='1076933842' action='delete' timestamp='2011-01-01T14:17:32Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2457763' lon='20.1465439' />
+  <node id='1076933855' action='delete' timestamp='2011-03-08T10:47:39Z' uid='201021' user='pethy' visible='true' version='2' changeset='7492801' lat='46.2468147' lon='20.1460508' />
+  <node id='1076933867' timestamp='2011-01-01T14:17:33Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.246618' lon='20.1466672' />
+  <node id='1076933871' action='delete' timestamp='2011-03-08T10:47:38Z' uid='201021' user='pethy' visible='true' version='2' changeset='7492801' lat='46.2473192' lon='20.1463971' />
+  <node id='1076933876' action='delete' timestamp='2011-01-01T14:17:33Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2460113' lon='20.14712' />
+  <node id='1076933902' action='delete' timestamp='2011-01-24T13:33:09Z' uid='201021' user='pethy' visible='true' version='2' changeset='7073075' lat='46.2461917' lon='20.1474889' />
+  <node id='1076933903' timestamp='2011-01-01T14:17:34Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2468277' lon='20.1468239' />
+  <node id='1076933907' action='delete' timestamp='2011-01-01T14:17:35Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2459877' lon='20.1459656' />
+  <node id='1076933912' action='delete' timestamp='2011-01-01T14:17:35Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2469688' lon='20.1461491' />
+  <node id='1076933936' action='delete' timestamp='2011-01-01T14:17:36Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2457721' lon='20.1471982' />
+  <node id='1076933947' action='delete' timestamp='2011-01-01T14:17:36Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2460681' lon='20.1472431' />
+  <node id='1076933972' timestamp='2011-01-01T14:17:37Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2465961' lon='20.1467103' />
+  <node id='1076933984' action='delete' timestamp='2011-01-01T14:17:37Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2462676' lon='20.1470602' />
+  <node id='1076933995' timestamp='2011-01-01T14:17:39Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2468618' lon='20.1468993' />
+  <node id='1076934011' action='delete' timestamp='2011-01-01T14:17:39Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2462925' lon='20.147628' />
+  <node id='1076934018' timestamp='2011-01-01T14:17:39Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2462997' lon='20.1469481' />
+  <node id='1076934024' action='delete' timestamp='2011-01-01T14:17:40Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2462157' lon='20.1472112' />
+  <node id='1076934026' action='delete' timestamp='2011-01-01T14:17:40Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2474029' lon='20.146457' />
+  <node id='1076934033' action='delete' timestamp='2011-01-01T14:17:40Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2462078' lon='20.1473719' />
+  <node id='1076934035' action='delete' timestamp='2011-01-01T14:17:40Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2458879' lon='20.1474334' />
+  <node id='1076934051' timestamp='2011-01-01T14:17:41Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.246208' lon='20.146874' />
+  <node id='1076934053' action='delete' timestamp='2011-01-01T14:17:41Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2470292' lon='20.1461895' />
+  <node id='1076934056' action='delete' timestamp='2011-01-01T14:17:42Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2457925' lon='20.1472148' />
+  <node id='1076934061' action='delete' timestamp='2011-01-01T14:17:42Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2470977' lon='20.1468175' />
+  <node id='1076934083' action='delete' timestamp='2011-01-01T14:17:43Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2459131' lon='20.1472779' />
+  <node id='1076934099' action='delete' timestamp='2011-01-01T14:17:44Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2463153' lon='20.1476461' />
+  <node id='1076934109' action='delete' timestamp='2011-01-01T14:17:44Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2472232' lon='20.1464729' />
+  <node id='1076934121' action='delete' timestamp='2011-01-01T14:17:46Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.247058' lon='20.1461107' />
+  <node id='1076934126' action='delete' timestamp='2011-01-01T14:17:46Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2458949' lon='20.1473159' />
+  <node id='1076934143' timestamp='2011-01-01T14:17:46Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2464907' lon='20.1468423' />
+  <node id='1076934164' timestamp='2011-01-01T14:17:48Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2466617' lon='20.1469561' />
+  <node id='1076934175' action='delete' timestamp='2011-01-01T14:17:49Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2463244' lon='20.147193' />
+  <node id='1076934178' timestamp='2011-01-01T14:17:49Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2468943' lon='20.146981' />
+  <node id='1076934188' timestamp='2011-01-01T14:17:49Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2468234' lon='20.1474467' />
+  <node id='1076934199' action='delete' timestamp='2011-01-01T14:17:50Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2460926' lon='20.1471748' />
+  <node id='1076934203' action='delete' timestamp='2011-01-01T14:17:50Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2457329' lon='20.1473052' />
+  <node id='1076934224' action='delete' timestamp='2011-01-01T14:17:51Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2461614' lon='20.1469839' />
+  <node id='1076934229' timestamp='2011-01-01T14:17:51Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2467303' lon='20.1470984' />
+  <node id='1076934250' action='delete' timestamp='2011-01-01T14:17:52Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2462847' lon='20.147722' />
+  <node id='1076934252' timestamp='2011-01-01T14:17:53Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2468903' lon='20.1470575' />
+  <node id='1076934271' action='delete' timestamp='2011-01-01T14:17:54Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2462417' lon='20.147287' />
+  <node id='1076934275' action='delete' timestamp='2011-01-01T14:17:54Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2458777' lon='20.1469839' />
+  <node id='1076934296' timestamp='2011-01-01T14:17:55Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2468157' lon='20.1472087' />
+  <node id='1076934316' action='delete' timestamp='2011-01-01T14:17:56Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2459585' lon='20.1471688' />
+  <node id='1076934328' timestamp='2011-01-01T14:17:56Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2468167' lon='20.1468627' />
+  <node id='1076934355' action='delete' timestamp='2011-01-01T14:17:58Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2464378' lon='20.1472831' />
+  <node id='1076934360' timestamp='2011-01-01T14:17:58Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.247148' lon='20.1468577' />
+  <node id='1076934373' action='delete' timestamp='2011-01-01T14:17:59Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.246194' lon='20.147257' />
+  <node id='1076934382' timestamp='2011-01-01T14:17:59Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2465633' lon='20.1467247' />
+  <node id='1076934392' action='delete' timestamp='2011-01-01T14:18:00Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2461095' lon='20.1471348' />
+  <node id='1076934422' timestamp='2011-01-01T14:18:01Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2468831' lon='20.1468581' />
+  <node id='1076934472' action='delete' timestamp='2011-01-01T14:18:02Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2461486' lon='20.1476154' />
+  <node id='1076934479' action='delete' timestamp='2011-01-01T14:18:03Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2463878' lon='20.1474309' />
+  <node id='1076934513' action='delete' timestamp='2011-01-01T14:18:03Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2462827' lon='20.1473159' />
+  <node id='1076934516' action='delete' timestamp='2011-01-01T14:18:04Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2459063' lon='20.1468219' />
+  <node id='1076934533' action='delete' timestamp='2011-01-01T14:18:04Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2469983' lon='20.1460635' />
+  <node id='1076934553' action='delete' timestamp='2011-01-01T14:18:05Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.245921' lon='20.1473454' />
+  <node id='1076934563' action='delete' timestamp='2011-01-01T14:18:05Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2467769' lon='20.1461645' />
+  <node id='1076934572' timestamp='2011-01-01T14:18:05Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084' lat='46.2469149' lon='20.1468871' />
+  <node id='1099501776' action='delete' timestamp='2013-03-18T23:39:06Z' uid='579990' user='vaandor' visible='true' version='2' changeset='15414805' lat='46.2403712' lon='20.1429904' />
+  <node id='1099501779' action='delete' timestamp='2015-02-01T13:31:08Z' uid='1719518' user='itamas80' visible='true' version='5' changeset='28545149' lat='46.2416251' lon='20.1424393'>
+    <tag k='name' v='Galamb utca' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1099501802' action='delete' timestamp='2011-08-18T17:30:33Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2416668' lon='20.1424233' />
+  <node id='1103186207' action='delete' timestamp='2015-02-01T13:31:12Z' uid='1719518' user='itamas80' visible='true' version='7' changeset='28545149' lat='46.2528649' lon='20.1495112'>
+    <tag k='name' v='Széchenyi tér' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1103186211' action='delete' timestamp='2015-02-01T13:31:12Z' uid='1719518' user='itamas80' visible='true' version='4' changeset='28545149' lat='46.2607228' lon='20.1389777'>
+    <tag k='name' v='Tavasz utca' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+  </node>
+  <node id='1103186215' action='delete' timestamp='2015-02-01T13:31:07Z' uid='1719518' user='itamas80' visible='true' version='5' changeset='28545149' lat='46.2431751' lon='20.1435528'>
+    <tag k='name' v='Bécsi körút' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1103186221' action='delete' timestamp='2013-02-10T19:23:20Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='14985744' lat='46.2525745' lon='20.1492782' />
+  <node id='1103186226' action='delete' timestamp='2015-02-01T13:31:12Z' uid='1719518' user='itamas80' visible='true' version='4' changeset='28545149' lat='46.2605868' lon='20.1393011'>
+    <tag k='name' v='Tavasz utca' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+  </node>
+  <node id='1103186236' action='delete' timestamp='2015-09-25T20:57:04Z' uid='513712' user='csehpacilla' visible='true' version='5' changeset='34252826' lat='46.2562386' lon='20.1474439'>
+    <tag k='name' v='Anna-kút (Kossuth Lajos sugárút)' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+  </node>
+  <node id='1103186241' action='delete' timestamp='2011-08-18T17:30:34Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2431717' lon='20.1435047' />
+  <node id='1103186249' action='delete' timestamp='2013-02-10T19:23:20Z' uid='408450' user='BáthoryPéter' visible='true' version='3' changeset='14985744' lat='46.2525988' lon='20.1492121' />
+  <node id='1103186251' action='delete' timestamp='2015-02-01T13:31:12Z' uid='1719518' user='itamas80' visible='true' version='6' changeset='28545149' lat='46.2526264' lon='20.1492329'>
+    <tag k='name' v='Széchenyi tér' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1103186254' action='delete' timestamp='2015-02-01T13:31:06Z' uid='1719518' user='itamas80' visible='true' version='5' changeset='28545149' lat='46.2477317' lon='20.146962'>
+    <tag k='name' v='Aradi vértanúk tere' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1103186256' action='delete' timestamp='2013-02-10T19:23:20Z' uid='408450' user='BáthoryPéter' visible='true' version='3' changeset='14985744' lat='46.2528877' lon='20.1494478' />
+  <node id='1103186257' action='delete' timestamp='2015-02-01T13:31:07Z' uid='1719518' user='itamas80' visible='true' version='5' changeset='28545149' lat='46.2628076' lon='20.1350496'>
+    <tag k='name' v='Damjanich utca' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+  </node>
+  <node id='1103186260' action='delete' timestamp='2015-02-01T13:31:07Z' uid='1719518' user='itamas80' visible='true' version='5' changeset='28545149' lat='46.2433413' lon='20.1437316'>
+    <tag k='name' v='Bécsi körút' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1103186265' action='delete' timestamp='2015-09-25T20:57:04Z' uid='513712' user='csehpacilla' visible='true' version='6' changeset='34252826' lat='46.2559944' lon='20.1478353'>
+    <tag k='name' v='Anna-kút (Kossuth Lajos sugárút)' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='1103186269' action='delete' timestamp='2015-02-01T13:31:10Z' uid='1719518' user='itamas80' visible='true' version='5' changeset='28545149' lat='46.2591977' lon='20.1418544'>
+    <tag k='name' v='Rókusi templom' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1103186283' action='delete' timestamp='2015-02-01T13:31:06Z' uid='1719518' user='itamas80' visible='true' version='5' changeset='28545149' lat='46.2478901' lon='20.1470627'>
+    <tag k='name' v='Aradi vértanúk tere' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1119203193' action='delete' timestamp='2011-03-19T18:08:39Z' uid='201021' user='pethy' visible='true' version='3' changeset='7608063' lat='46.2423774' lon='20.1447011' />
+  <node id='1119203412' action='delete' timestamp='2011-03-19T18:08:48Z' uid='201021' user='pethy' visible='true' version='2' changeset='7608063' lat='46.2436481' lon='20.1491945' />
+  <node id='1125084435' action='delete' timestamp='2011-08-18T17:30:42Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2542627' lon='20.1505633' />
+  <node id='1125085306' action='delete' timestamp='2011-08-18T17:30:42Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2542553' lon='20.1506035' />
+  <node id='1152617705' action='delete' timestamp='2011-02-14T11:21:59Z' uid='201021' user='pethy' visible='true' version='1' changeset='7284805' lat='46.2440903' lon='20.1463384' />
+  <node id='1152669241' action='delete' timestamp='2011-03-19T18:08:48Z' uid='201021' user='pethy' visible='true' version='2' changeset='7608063' lat='46.2455669' lon='20.1473346' />
+  <node id='1152703441' action='delete' timestamp='2011-03-19T18:08:45Z' uid='201021' user='pethy' visible='true' version='2' changeset='7608063' lat='46.2426037' lon='20.1448331' />
+  <node id='1192498383' action='delete' timestamp='2011-03-08T10:44:57Z' uid='201021' user='pethy' visible='true' version='1' changeset='7492780' lat='46.246751' lon='20.1481266' />
+  <node id='1209266168' action='delete' timestamp='2011-03-19T18:07:57Z' uid='201021' user='pethy' visible='true' version='1' changeset='7608063' lat='46.2454683' lon='20.1501346' />
+  <node id='1209266422' action='delete' timestamp='2011-03-19T18:08:06Z' uid='201021' user='pethy' visible='true' version='1' changeset='7608063' lat='46.2463433' lon='20.1470549' />
+  <node id='1209266479' action='delete' timestamp='2011-03-19T18:08:08Z' uid='201021' user='pethy' visible='true' version='1' changeset='7608063' lat='46.2444749' lon='20.1497049' />
+  <node id='1209266530' action='delete' timestamp='2011-03-19T18:08:11Z' uid='201021' user='pethy' visible='true' version='1' changeset='7608063' lat='46.246823' lon='20.1475265' />
+  <node id='1209266563' action='delete' timestamp='2011-03-19T18:08:15Z' uid='201021' user='pethy' visible='true' version='1' changeset='7608063' lat='46.2458137' lon='20.1466498' />
+  <node id='1217272966' action='delete' timestamp='2014-08-10T10:50:55Z' uid='290680' user='wheelmap_visitor' visible='true' version='2' changeset='24649417' lat='46.2469311' lon='20.1472359'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='regional' />
+    <tag k='name' v='Gödör' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1287957364' action='delete' timestamp='2011-08-18T17:30:46Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9058821' lat='46.2465029' lon='20.1462014' />
+  <node id='1287957368' timestamp='2011-05-16T16:55:40Z' uid='352715' user='Beroesz' visible='true' version='1' changeset='8164143' lat='46.2464087' lon='20.1463249' />
+  <node id='1287957369' action='delete' timestamp='2011-05-16T16:55:40Z' uid='352715' user='Beroesz' visible='true' version='1' changeset='8164143' lat='46.2463005' lon='20.1467933' />
+  <node id='1287957370' timestamp='2011-05-16T16:55:40Z' uid='352715' user='Beroesz' visible='true' version='1' changeset='8164143' lat='46.24649802012' lon='20.14638431482' />
+  <node id='1287957372' action='delete' timestamp='2011-05-16T16:55:40Z' uid='352715' user='Beroesz' visible='true' version='1' changeset='8164143' lat='46.2464638' lon='20.1463245'>
+    <tag k='barrier' v='lift_gate' />
+  </node>
+  <node id='1403707798' action='delete' timestamp='2015-02-01T13:31:07Z' uid='1719518' user='itamas80' visible='true' version='4' changeset='28545149' lat='46.2626442' lon='20.1354721'>
+    <tag k='name' v='Damjanich utca' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+  </node>
+  <node id='1403707871' action='delete' timestamp='2015-02-01T13:31:11Z' uid='1719518' user='itamas80' visible='true' version='4' changeset='28545149' lat='46.2503148' lon='20.1477243'>
+    <tag k='name' v='Somogyi utca' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1403707874' action='delete' timestamp='2015-02-01T13:31:11Z' uid='1719518' user='itamas80' visible='true' version='4' changeset='28545149' lat='46.2505337' lon='20.1477997'>
+    <tag k='name' v='Somogyi utca' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1403708073' action='delete' timestamp='2015-02-01T13:31:06Z' uid='1719518' user='itamas80' visible='true' version='5' changeset='28545149' lat='46.2400263' lon='20.1411785'>
+    <tag k='name' v='Bem utca' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1403708087' action='delete' timestamp='2011-08-18T17:28:07Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2403646' lon='20.1414281' />
+  <node id='1403708123' action='delete' timestamp='2011-08-18T17:28:08Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2411906' lon='20.1421552' />
+  <node id='1403708126' action='delete' timestamp='2011-08-18T17:28:08Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2412384' lon='20.1421643' />
+  <node id='1403708127' action='delete' timestamp='2011-08-18T17:28:08Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2412847' lon='20.142168' />
+  <node id='1403708135' action='delete' timestamp='2011-08-18T17:28:08Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.241655' lon='20.1424612' />
+  <node id='1403708138' action='delete' timestamp='2011-08-18T17:28:08Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2416609' lon='20.1424423' />
+  <node id='1403708144' action='delete' timestamp='2015-07-29T07:24:07Z' uid='2017065' user='Adam Harangozó' visible='true' version='3' changeset='32948486' lat='46.2417893' lon='20.1425205' />
+  <node id='1403708149' action='delete' timestamp='2011-08-18T17:28:08Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2418713' lon='20.1426347' />
+  <node id='1403708152' action='delete' timestamp='2011-08-18T17:28:08Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2418787' lon='20.1426169' />
+  <node id='1403708163' action='delete' timestamp='2011-08-18T17:28:08Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.241886' lon='20.142599' />
+  <node id='1403708193' action='delete' timestamp='2011-08-18T17:28:09Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2429382' lon='20.143442' />
+  <node id='1403708196' action='delete' timestamp='2011-08-18T17:28:09Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2429453' lon='20.143424' />
+  <node id='1403708217' action='delete' timestamp='2011-08-18T17:28:09Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2429525' lon='20.143406' />
+  <node id='1403708255' action='delete' timestamp='2011-08-18T17:28:09Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2431521' lon='20.1435583' />
+  <node id='1403708256' action='delete' timestamp='2011-08-18T17:28:10Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2431588' lon='20.14354' />
+  <node id='1403708325' action='delete' timestamp='2011-08-18T17:28:10Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2437616' lon='20.1440402' />
+  <node id='1403708329' action='delete' timestamp='2011-08-18T17:28:10Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2446041' lon='20.144689' />
+  <node id='1403708332' action='delete' timestamp='2011-08-18T17:28:10Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2449535' lon='20.1449575' />
+  <node id='1403708344' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2459019' lon='20.1457471' />
+  <node id='1403708346' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2459168' lon='20.1457115' />
+  <node id='1403708348' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2459242' lon='20.1456937' />
+  <node id='1403708355' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2459317' lon='20.1456759' />
+  <node id='1403708356' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2459465' lon='20.1456404' />
+  <node id='1403708359' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2460172' lon='20.1457645' />
+  <node id='1403708363' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2461336' lon='20.1459236' />
+  <node id='1403708376' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2461468' lon='20.1458866' />
+  <node id='1403708378' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2461533' lon='20.1458682' />
+  <node id='1403708380' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2461599' lon='20.1458497' />
+  <node id='1403708382' action='delete' timestamp='2011-08-18T17:28:11Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2461731' lon='20.1458128' />
+  <node id='1403708387' action='delete' timestamp='2011-08-18T17:28:12Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2465164' lon='20.1461647' />
+  <node id='1403708393' action='delete' timestamp='2011-08-18T17:28:12Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2465232' lon='20.1461464' />
+  <node id='1403708395' action='delete' timestamp='2011-08-18T17:28:12Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2465299' lon='20.146128' />
+  <node id='1403708396' action='delete' timestamp='2011-08-18T17:28:12Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2465434' lon='20.1460914' />
+  <node id='1403708405' action='delete' timestamp='2014-08-20T05:15:32Z' uid='1092768' user='kla25' visible='true' version='2' changeset='24875515' lat='46.247161' lon='20.1466348' />
+  <node id='1403708408' action='delete' timestamp='2014-08-20T05:15:32Z' uid='1092768' user='kla25' visible='true' version='2' changeset='24875515' lat='46.2472539' lon='20.1467006' />
+  <node id='1403708409' action='delete' timestamp='2011-08-18T17:28:12Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2473676' lon='20.1467941' />
+  <node id='1403708413' action='delete' timestamp='2011-08-18T17:28:12Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2479' lon='20.1470663' />
+  <node id='1403708416' action='delete' timestamp='2011-08-18T17:28:12Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2479088' lon='20.1470267' />
+  <node id='1403708450' action='delete' timestamp='2011-08-18T17:28:13Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.250136' lon='20.1477386' />
+  <node id='1403708452' action='delete' timestamp='2011-08-18T17:28:13Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2501401' lon='20.1476975' />
+  <node id='1403708569' action='delete' timestamp='2013-02-10T19:23:21Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='14985744' lat='46.251743' lon='20.1485776' />
+  <node id='1403708572' action='delete' timestamp='2013-02-10T19:23:21Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='14985744' lat='46.2517586' lon='20.1485426' />
+  <node id='1403708771' action='delete' timestamp='2011-08-18T17:28:20Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2534789' lon='20.1500254' />
+  <node id='1403708774' action='delete' timestamp='2011-08-18T17:28:21Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2534936' lon='20.1499896' />
+  <node id='1403708791' action='delete' timestamp='2011-08-18T17:28:21Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2536455' lon='20.1501517' />
+  <node id='1403708793' action='delete' timestamp='2011-08-18T17:28:21Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2536611' lon='20.1501168' />
+  <node id='1403708847' action='delete' timestamp='2011-08-18T17:28:22Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2541878' lon='20.1505635' />
+  <node id='1403708852' action='delete' timestamp='2011-08-18T17:28:22Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.254201' lon='20.1505265' />
+  <node id='1403708862' action='delete' timestamp='2011-08-18T17:28:22Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2543309' lon='20.1506285' />
+  <node id='1403708868' action='delete' timestamp='2011-08-18T17:28:22Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2543358' lon='20.1505876' />
+  <node id='1403708880' action='delete' timestamp='2011-08-18T17:28:23Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2543979' lon='20.1505961' />
+  <node id='1403708884' action='delete' timestamp='2011-08-18T17:28:23Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.254449' lon='20.1506333' />
+  <node id='1403708961' action='delete' timestamp='2011-08-30T16:03:08Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9168607' lat='46.2556938' lon='20.1483867' />
+  <node id='1403709024' action='delete' timestamp='2011-08-30T16:03:08Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9168607' lat='46.2559266' lon='20.1480275' />
+  <node id='1403709241' action='delete' timestamp='2011-08-18T17:28:30Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.258958' lon='20.1423092' />
+  <node id='1403709247' action='delete' timestamp='2011-08-18T17:28:30Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.25898' lon='20.1423359' />
+  <node id='1403709312' action='delete' timestamp='2011-08-18T17:28:31Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2606679' lon='20.1390804' />
+  <node id='1403709318' action='delete' timestamp='2011-08-18T17:28:31Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2610361' lon='20.1383921' />
+  <node id='1403709323' action='delete' timestamp='2011-08-18T17:28:32Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2610581' lon='20.1384188' />
+  <node id='1403709386' action='delete' timestamp='2011-08-18T17:28:33Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2624009' lon='20.1358597' />
+  <node id='1403709393' action='delete' timestamp='2011-08-18T17:28:33Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2624238' lon='20.1358848' />
+  <node id='1403709400' action='delete' timestamp='2013-03-08T22:28:11Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='15296141' lat='46.2626654' lon='20.1353627' />
+  <node id='1403709405' action='delete' timestamp='2013-03-08T22:28:11Z' uid='408450' user='BáthoryPéter' visible='true' version='2' changeset='15296141' lat='46.2626874' lon='20.1353894' />
+  <node id='1403709415' action='delete' timestamp='2011-08-18T17:28:34Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2627457' lon='20.1351964' />
+  <node id='1403709430' action='delete' timestamp='2011-08-18T17:28:34Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821' lat='46.2627704' lon='20.1352176' />
+  <node id='1403709436' action='delete' timestamp='2012-08-28T16:40:22Z' uid='55843' user='flaktack' visible='true' version='2' changeset='12894776' lat='46.2629528' lon='20.1347112' />
+  <node id='1403709440' action='delete' timestamp='2012-08-28T16:40:22Z' uid='55843' user='flaktack' visible='true' version='2' changeset='12894776' lat='46.262978' lon='20.1347312' />
+  <node id='1403709442' action='delete' timestamp='2012-08-28T16:40:22Z' uid='55843' user='flaktack' visible='true' version='2' changeset='12894776' lat='46.2631035' lon='20.134289' />
+  <node id='1403709448' action='delete' timestamp='2012-08-28T16:40:22Z' uid='55843' user='flaktack' visible='true' version='2' changeset='12894776' lat='46.2631278' lon='20.1343112' />
+  <node id='1403709489' action='delete' timestamp='2012-08-28T16:40:22Z' uid='55843' user='flaktack' visible='true' version='2' changeset='12894776' lat='46.2638822' lon='20.1320442' />
+  <node id='1403709494' action='delete' timestamp='2012-08-28T16:40:23Z' uid='55843' user='flaktack' visible='true' version='2' changeset='12894776' lat='46.2639063' lon='20.1320668' />
+  <node id='1403709546' action='delete' timestamp='2012-08-28T16:40:23Z' uid='55843' user='flaktack' visible='true' version='3' changeset='12894776' lat='46.2642195' lon='20.1311105' />
+  <node id='1829680635' action='delete' timestamp='2015-07-28T12:45:12Z' uid='2017065' user='Adam Harangozó' visible='true' version='2' changeset='32931523' lat='46.244945' lon='20.1449505' />
+  <node id='1829680655' action='delete' timestamp='2015-07-26T20:11:01Z' uid='2017065' user='Adam Harangozó' visible='true' version='2' changeset='32896626' lat='46.2445665' lon='20.1446544' />
+  <node id='1829701183' action='delete' timestamp='2012-07-18T12:51:06Z' uid='713848' user='NightH' visible='true' version='1' changeset='12281016' lat='46.2437625' lon='20.1440383' />
+  <node id='1829701185' action='delete' timestamp='2012-07-18T12:51:06Z' uid='713848' user='NightH' visible='true' version='1' changeset='12281016' lat='46.2431539' lon='20.1435597' />
+  <node id='1837332802' action='delete' timestamp='2012-07-25T07:25:44Z' uid='713848' user='NightH' visible='true' version='1' changeset='12482102' lat='46.246523' lon='20.146147' />
+  <node id='1837332813' action='delete' timestamp='2012-07-25T07:25:45Z' uid='713848' user='NightH' visible='true' version='1' changeset='12482102' lat='46.2416608' lon='20.1424427' />
+  <node id='1886954407' action='delete' timestamp='2012-08-28T16:39:20Z' uid='55843' user='flaktack' visible='true' version='1' changeset='12894776' lat='46.239486' lon='20.1419758' />
+  <node id='1886954598' action='delete' timestamp='2012-08-28T16:39:25Z' uid='55843' user='flaktack' visible='true' version='1' changeset='12894776' lat='46.2636689' lon='20.1326816' />
+  <node id='1886954602' action='delete' timestamp='2012-08-28T16:39:25Z' uid='55843' user='flaktack' visible='true' version='1' changeset='12894776' lat='46.263693' lon='20.1327042' />
+  <node id='1886954613' action='delete' timestamp='2012-08-28T16:39:25Z' uid='55843' user='flaktack' visible='true' version='1' changeset='12894776' lat='46.2641' lon='20.1314407' />
+  <node id='1886954623' action='delete' timestamp='2012-08-28T16:39:26Z' uid='55843' user='flaktack' visible='true' version='1' changeset='12894776' lat='46.2641248' lon='20.1314615' />
+  <node id='1899974254' action='delete' timestamp='2012-09-05T09:14:21Z' uid='713848' user='NightH' visible='true' version='1' changeset='12993144' lat='46.2639185' lon='20.1320329' />
+  <node id='1899974260' action='delete' timestamp='2012-09-05T09:14:21Z' uid='713848' user='NightH' visible='true' version='1' changeset='12993144' lat='46.2641243' lon='20.1313737' />
+  <node id='1899974269' action='delete' timestamp='2012-09-05T09:14:21Z' uid='713848' user='NightH' visible='true' version='1' changeset='12993144' lat='46.2640663' lon='20.1316235' />
+  <node id='1899974272' action='delete' timestamp='2012-09-05T09:14:21Z' uid='713848' user='NightH' visible='true' version='1' changeset='12993144' lat='46.2640392' lon='20.1316054' />
+  <node id='2142016274' action='delete' timestamp='2013-02-04T22:59:13Z' uid='408450' user='BáthoryPéter' visible='true' version='1' changeset='14916563' lat='46.2475905' lon='20.1477398' />
+  <node id='2142016275' action='delete' timestamp='2013-02-04T22:59:13Z' uid='408450' user='BáthoryPéter' visible='true' version='1' changeset='14916563' lat='46.2476915' lon='20.1477615' />
+  <node id='2429618663' action='delete' timestamp='2015-02-11T18:04:27Z' uid='1719518' user='itamas80' visible='true' version='4' changeset='28778949' lat='46.2471133' lon='20.147043'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Aradi vértanúk tere' />
+    <tag k='public_transport' v='stop' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2429619187' action='delete' timestamp='2015-02-01T13:31:13Z' uid='1719518' user='itamas80' visible='true' version='2' changeset='28545149' lat='46.2637745' lon='20.1323668'>
+    <tag k='name' v='Vásárhelyi Pál út' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='railway' v='tram_stop' />
+  </node>
+  <node id='3009235461' action='delete' timestamp='2014-08-10T19:34:20Z' uid='2249983' user='Lariuss' visible='true' version='1' changeset='24662271' lat='46.2472178' lon='20.1466753'>
+    <tag k='historic' v='memorial' />
+    <tag k='name' v='Hősök kapuja' />
+    <tag k='website' v='http://hu.wikipedia.org/wiki/H%C5%91s%C3%B6k_kapuja_(Szeged)' />
+  </node>
+  <node id='3009235462' action='modify' timestamp='2015-10-26T11:31:09Z' uid='3296488' user='route4uuser' visible='true' version='2' changeset='34879356' lat='46.2465088' lon='20.1463537' />
+  <way id='-2061' action='modify' visible='true'>
+    <nd ref='-1112' />
+    <nd ref='-1232' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1760' action='modify' visible='true'>
+    <nd ref='-1080' />
+    <nd ref='-1759' />
+    <nd ref='-1092' />
+  </way>
+  <way id='-1756' action='modify' visible='true'>
+    <nd ref='-1755' />
+    <nd ref='-1090' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1754' action='modify' visible='true'>
+    <nd ref='-1753' />
+    <nd ref='-1114' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1752' action='modify' visible='true'>
+    <nd ref='-1751' />
+    <nd ref='-1116' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1638' action='modify' visible='true'>
+    <nd ref='-1236' />
+    <nd ref='-1118' />
+    <nd ref='-1228' />
+    <nd ref='-1120' />
+    <nd ref='-1234' />
+    <nd ref='-1126' />
+    <nd ref='-1232' />
+    <nd ref='-1124' />
+    <nd ref='-1230' />
+    <nd ref='-1236' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1636' action='modify' visible='true'>
+    <nd ref='-1228' />
+    <nd ref='-1090' />
+    <nd ref='-1226' />
+    <nd ref='-1224' />
+    <nd ref='-1092' />
+    <nd ref='-1222' />
+    <nd ref='-1102' />
+    <nd ref='-1234' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1634' action='modify' visible='true'>
+    <nd ref='-1224' />
+    <nd ref='-1216' />
+    <nd ref='-1214' />
+    <nd ref='-1198' />
+    <nd ref='-1204' />
+    <nd ref='-1080' />
+    <nd ref='-1218' />
+    <nd ref='-1222' />
+    <nd ref='-1092' />
+    <nd ref='-1224' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1632' action='modify' visible='true'>
+    <nd ref='-1204' />
+    <nd ref='-1202' />
+    <nd ref='-1200' />
+    <nd ref='-1198' />
+    <nd ref='-1204' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1630' action='modify' visible='true'>
+    <nd ref='-1202' />
+    <nd ref='-1100' />
+    <nd ref='-1196' />
+    <nd ref='-1194' />
+    <nd ref='-1200' />
+    <nd ref='-1202' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1628' action='modify' visible='true'>
+    <nd ref='-1194' />
+    <nd ref='-1192' />
+    <nd ref='-1104' />
+    <nd ref='-1190' />
+    <nd ref='-1196' />
+    <nd ref='-1194' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1626' action='modify' visible='true'>
+    <nd ref='-1208' />
+    <nd ref='-1188' />
+    <nd ref='-1186' />
+    <nd ref='-1184' />
+    <nd ref='-1206' />
+    <nd ref='-1208' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1624' action='modify' visible='true'>
+    <nd ref='-1186' />
+    <nd ref='-1182' />
+    <nd ref='-1180' />
+    <nd ref='-1184' />
+    <nd ref='-1186' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1622' action='modify' visible='true'>
+    <nd ref='-1182' />
+    <nd ref='-1178' />
+    <nd ref='-1176' />
+    <nd ref='-1180' />
+    <nd ref='-1182' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1620' action='modify' visible='true'>
+    <nd ref='-1178' />
+    <nd ref='-1174' />
+    <nd ref='-1172' />
+    <nd ref='-1176' />
+    <nd ref='-1178' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1618' action='modify' visible='true'>
+    <nd ref='-1174' />
+    <nd ref='-1170' />
+    <nd ref='-1168' />
+    <nd ref='-1172' />
+    <nd ref='-1174' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1616' action='modify' visible='true'>
+    <nd ref='-1170' />
+    <nd ref='-1166' />
+    <nd ref='-1164' />
+    <nd ref='-1168' />
+    <nd ref='-1170' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1614' action='modify' visible='true'>
+    <nd ref='-1166' />
+    <nd ref='-1162' />
+    <nd ref='-1160' />
+    <nd ref='-1164' />
+    <nd ref='-1166' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1612' action='modify' visible='true'>
+    <nd ref='-1162' />
+    <nd ref='-1148' />
+    <nd ref='-1158' />
+    <nd ref='-1148' />
+    <nd ref='-1156' />
+    <nd ref='-1160' />
+    <nd ref='-1162' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1610' action='modify' visible='true'>
+    <nd ref='-1158' />
+    <nd ref='-1154' />
+    <nd ref='-1152' />
+    <nd ref='-1156' />
+    <nd ref='-1148' />
+    <nd ref='-1158' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1608' action='modify' visible='true'>
+    <nd ref='-1154' />
+    <nd ref='-1150' />
+    <nd ref='1287957370' />
+    <nd ref='3009235462' />
+    <nd ref='-1152' />
+    <nd ref='-1154' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1606' action='modify' visible='true'>
+    <nd ref='-1148' />
+    <nd ref='-1158' />
+    <nd ref='-1146' />
+    <nd ref='-1144' />
+    <nd ref='-1150' />
+    <nd ref='-1154' />
+    <nd ref='-1158' />
+    <nd ref='-1148' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1604' action='modify' visible='true'>
+    <nd ref='-1134' />
+    <nd ref='-1132' />
+    <nd ref='-1130' />
+    <nd ref='-1128' />
+    <nd ref='-1134' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1602' action='modify' visible='true'>
+    <nd ref='-1124' />
+    <nd ref='-1122' />
+    <nd ref='-1114' />
+    <nd ref='-1126' />
+    <nd ref='-1232' />
+    <nd ref='-1124' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1600' action='modify' visible='true'>
+    <nd ref='-1122' />
+    <nd ref='-1116' />
+    <nd ref='-1118' />
+    <nd ref='-1236' />
+    <nd ref='-1230' />
+    <nd ref='-1124' />
+    <nd ref='-1122' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1598' action='modify' visible='true'>
+    <nd ref='-1222' />
+    <nd ref='-1110' />
+    <nd ref='-1112' />
+    <nd ref='-1220' />
+    <nd ref='-1210' />
+    <nd ref='-1212' />
+    <nd ref='-1218' />
+    <nd ref='-1222' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1596' action='modify' visible='true'>
+    <nd ref='-1106' />
+    <nd ref='-1208' />
+    <nd ref='-1206' />
+    <nd ref='-1210' />
+    <nd ref='-1212' />
+    <nd ref='-1106' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1594' action='modify' visible='true'>
+    <nd ref='-1142' />
+    <nd ref='-1134' />
+    <nd ref='-1128' />
+    <nd ref='-1136' />
+    <nd ref='-1138' />
+    <nd ref='-1140' />
+    <nd ref='-1142' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1592' action='modify' visible='true'>
+    <nd ref='-1142' />
+    <nd ref='-1146' />
+    <nd ref='-1158' />
+    <nd ref='-1162' />
+    <nd ref='-1166' />
+    <nd ref='-1170' />
+    <nd ref='-1174' />
+    <nd ref='-1178' />
+    <nd ref='-1182' />
+    <nd ref='-1186' />
+    <nd ref='-1188' />
+    <nd ref='-1208' />
+    <nd ref='-1106' />
+    <nd ref='-1212' />
+    <nd ref='-1108' />
+    <nd ref='-1218' />
+    <nd ref='-1080' />
+    <nd ref='-1204' />
+    <nd ref='-1202' />
+    <nd ref='-1100' />
+    <nd ref='-1196' />
+    <nd ref='-1190' />
+    <nd ref='-1104' />
+    <nd ref='-1192' />
+    <nd ref='-1132' />
+    <nd ref='-1134' />
+    <nd ref='-1142' />
+    <tag k='indoor' v='room' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1590' action='modify' visible='true'>
+    <nd ref='-1116' />
+    <nd ref='-1096' />
+    <nd ref='-1098' />
+    <nd ref='-1114' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1588' action='modify' visible='true'>
+    <nd ref='-1092' />
+    <nd ref='-1088' />
+    <nd ref='-1094' />
+    <nd ref='-1120' />
+    <nd ref='-1096' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1586' action='modify' visible='true'>
+    <nd ref='-1094' />
+    <nd ref='-1090' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1584' action='modify' visible='true'>
+    <nd ref='-1080' />
+    <nd ref='-1082' />
+    <nd ref='-1108' />
+    <nd ref='-1084' />
+    <nd ref='-1110' />
+    <nd ref='-1086' />
+    <nd ref='-1102' />
+    <nd ref='-1088' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1582' action='modify' visible='true'>
+    <nd ref='-1082' />
+    <nd ref='-1078' />
+    <nd ref='-1100' />
+    <nd ref='-1779' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1580' action='modify' visible='true'>
+    <nd ref='-1078' />
+    <nd ref='-1076' />
+    <nd ref='-1106' />
+    <nd ref='-1783' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-1578' action='modify' visible='true'>
+    <nd ref='-1076' />
+    <nd ref='-1074' />
+    <nd ref='-1072' />
+    <nd ref='-1104' />
+    <nd ref='-1781' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='76212506' action='delete' timestamp='2015-04-02T14:04:50Z' uid='2282617' user='gepmer' visible='true' version='10' changeset='29929671'>
+    <tag k='cycleway' v='opposite_lane' />
+    <tag k='cycleway:left' v='opposite_lane' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Aradi vértanúk tere' />
+    <tag k='oneway' v='yes' />
+    <tag k='oneway:bicycle' v='no' />
+  </way>
+  <way id='76258589' action='delete' timestamp='2013-02-09T21:54:10Z' uid='408450' user='BáthoryPéter' visible='true' version='13' changeset='14972812'>
+    <tag k='amenity' v='university' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='SZTE TTIK Bolyai Intézet' />
+  </way>
+  <way id='77346651' action='delete' timestamp='2011-03-08T10:47:39Z' uid='201021' user='pethy' visible='true' version='2' changeset='7492801'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Ságvári Endre Gyakorló Gimnázium' />
+  </way>
+  <way id='77347732' action='delete' timestamp='2014-03-15T22:55:51Z' uid='513712' user='csehpacilla' visible='true' version='2' changeset='21126385'>
+    <tag k='leisure' v='park' />
+    <tag k='name' v='Aradi vértanúk tere' />
+  </way>
+  <way id='79620911' action='delete' timestamp='2015-02-01T13:30:54Z' uid='1719518' user='itamas80' visible='true' version='9' changeset='28545149'>
+    <tag k='electrified' v='contact_line' />
+    <tag k='frequency' v='0' />
+    <tag k='gauge' v='1435' />
+    <tag k='name' v='1, 2' />
+    <tag k='operator' v='SZKT' />
+    <tag k='railway' v='tram' />
+    <tag k='voltage' v='600' />
+  </way>
+  <way id='80414975' action='delete' timestamp='2015-03-24T20:05:43Z' uid='1645575' user='GeoLaci' visible='true' version='4' changeset='29712599'>
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='Tisza Lajos körút' />
+  </way>
+  <way id='80417483' action='delete' timestamp='2015-03-24T20:05:42Z' uid='1645575' user='GeoLaci' visible='true' version='6' changeset='29712599'>
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='Boldogasszony sugárút' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='92873804' action='delete' timestamp='2015-02-01T13:30:52Z' uid='1719518' user='itamas80' visible='true' version='10' changeset='28545149'>
+    <tag k='electrified' v='contact_line' />
+    <tag k='frequency' v='0' />
+    <tag k='gauge' v='1435' />
+    <tag k='name' v='1, 2' />
+    <tag k='operator' v='SZKT' />
+    <tag k='railway' v='tram' />
+    <tag k='voltage' v='600' />
+  </way>
+  <way id='92873805' action='delete' timestamp='2015-03-24T20:05:42Z' uid='1645575' user='GeoLaci' visible='true' version='4' changeset='29712599'>
+    <tag k='highway' v='tertiary' />
+    <tag k='layer' v='-1' />
+    <tag k='name' v='Boldogasszony sugárút' />
+    <tag k='oneway' v='yes' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='92873806' action='delete' timestamp='2015-03-24T20:05:42Z' uid='1645575' user='GeoLaci' visible='true' version='4' changeset='29712599'>
+    <tag k='highway' v='tertiary' />
+    <tag k='layer' v='-1' />
+    <tag k='name' v='Boldogasszony sugárút' />
+    <tag k='oneway' v='yes' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='92873807' action='delete' timestamp='2015-03-24T20:05:42Z' uid='1645575' user='GeoLaci' visible='true' version='3' changeset='29712599'>
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='Boldogasszony sugárút' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='92873808' action='delete' timestamp='2015-03-24T20:05:42Z' uid='1645575' user='GeoLaci' visible='true' version='5' changeset='29712599'>
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='Boldogasszony sugárút' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='92873809' action='delete' timestamp='2015-02-01T13:30:52Z' uid='1719518' user='itamas80' visible='true' version='6' changeset='28545149'>
+    <tag k='electrified' v='contact_line' />
+    <tag k='frequency' v='0' />
+    <tag k='gauge' v='1435' />
+    <tag k='layer' v='-1' />
+    <tag k='name' v='1, 2' />
+    <tag k='operator' v='SZKT' />
+    <tag k='railway' v='tram' />
+    <tag k='tunnel' v='yes' />
+    <tag k='voltage' v='600' />
+  </way>
+  <way id='92873811' action='delete' timestamp='2015-02-01T13:30:52Z' uid='1719518' user='itamas80' visible='true' version='6' changeset='28545149'>
+    <tag k='electrified' v='contact_line' />
+    <tag k='frequency' v='0' />
+    <tag k='gauge' v='1435' />
+    <tag k='layer' v='-1' />
+    <tag k='name' v='1, 2' />
+    <tag k='operator' v='SZKT' />
+    <tag k='railway' v='tram' />
+    <tag k='tunnel' v='yes' />
+    <tag k='voltage' v='600' />
+  </way>
+  <way id='92875886' action='modify' timestamp='2013-02-04T22:59:14Z' uid='408450' user='BáthoryPéter' visible='true' version='4' changeset='14916563'>
+    <nd ref='1076934360' />
+    <nd ref='1076934188' />
+    <nd ref='1076933820' />
+    <nd ref='1076934018' />
+    <nd ref='-1144' />
+    <nd ref='-1150' />
+    <nd ref='1287957370' />
+    <nd ref='3009235462' />
+    <nd ref='-1152' />
+    <nd ref='-1156' />
+    <nd ref='-1160' />
+    <nd ref='-1164' />
+    <nd ref='-1168' />
+    <nd ref='-1172' />
+    <nd ref='-1176' />
+    <nd ref='-1180' />
+    <nd ref='-1184' />
+    <nd ref='-1206' />
+    <nd ref='-1210' />
+    <nd ref='-1220' />
+    <nd ref='-1112' />
+    <nd ref='-1232' />
+    <nd ref='-1124' />
+    <nd ref='-1230' />
+    <nd ref='1076934360' />
+    <tag k='alt_name' v='DKME-palota' />
+    <tag k='amenity' v='university' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Irinyi épület' />
+  </way>
+  <way id='92875887' action='delete' timestamp='2014-03-15T22:55:56Z' uid='513712' user='csehpacilla' visible='true' version='2' changeset='21126385'>
+    <tag k='amenity' v='hospital' />
+    <tag k='name' v='Nőgyógyászati klinika' />
+  </way>
+  <way id='92875889' timestamp='2011-03-08T10:34:30Z' uid='201021' user='pethy' visible='true' version='2' changeset='7492719'>
+    <nd ref='1076934572' />
+    <nd ref='1076933705' />
+    <nd ref='1076934178' />
+    <nd ref='1076933810' />
+    <nd ref='1076934252' />
+    <nd ref='1076934296' />
+    <nd ref='1076934229' />
+    <nd ref='1076933784' />
+    <nd ref='1076934164' />
+    <nd ref='1076934143' />
+    <nd ref='1076933683' />
+    <nd ref='1076934382' />
+    <nd ref='1076933972' />
+    <nd ref='1076933867' />
+    <nd ref='1076933903' />
+    <nd ref='1076934328' />
+    <nd ref='1076933995' />
+    <nd ref='1076934422' />
+    <nd ref='1076934572' />
+  </way>
+  <way id='92875898' action='delete' timestamp='2012-07-15T20:16:56Z' uid='713848' user='NightH' visible='true' version='4' changeset='12235418'>
+    <tag k='amenity' v='school' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='92875899' action='delete' timestamp='2011-03-08T10:47:41Z' uid='201021' user='pethy' visible='true' version='2' changeset='7492801'>
+    <tag k='building' v='yes' />
+  </way>
+  <way id='92875901' action='delete' timestamp='2014-08-10T10:51:21Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='24649417'>
+    <tag k='amenity' v='university' />
+    <tag k='name' v='Juhász Gyula Tanárképző Főiskolai Kar' />
+    <tag k='wheelchair' v='no' />
+  </way>
+  <way id='92875902' action='delete' timestamp='2011-01-01T14:18:15Z' uid='201021' user='pethy' visible='true' version='1' changeset='6828084'>
+    <tag k='building' v='yes' />
+  </way>
+  <way id='104852981' action='delete' timestamp='2011-03-19T18:08:35Z' uid='201021' user='pethy' visible='true' version='1' changeset='7608063'>
+    <tag k='CLC:code' v='112' />
+    <tag k='CLC:id' v='HU-35894' />
+    <tag k='CLC:surfaceoverlap' v='0.8479837904' />
+    <tag k='CLC:year' v='2006' />
+    <tag k='source' v='© EEA, Koppenhága (2009); Készítette a FÖMI a KvVM megbízásából (2009)' />
+  </way>
+  <way id='113588007' action='delete' timestamp='2011-05-16T16:55:40Z' uid='352715' user='Beroesz' visible='true' version='1' changeset='8164143'>
+    <tag k='barrier' v='wall' />
+  </way>
+  <way id='113588008' action='delete' timestamp='2015-02-03T06:57:19Z' uid='1092768' user='kla25' visible='true' version='4' changeset='28582883'>
+    <tag k='access' v='private' />
+    <tag k='highway' v='service' />
+    <tag k='horse' v='no' />
+    <tag k='motor_vehicle' v='no' />
+  </way>
+  <way id='113588009' action='modify' timestamp='2011-05-16T16:55:40Z' uid='352715' user='Beroesz' visible='true' version='1' changeset='8164143'>
+    <nd ref='1287957370' />
+    <nd ref='1287957368' />
+    <nd ref='1076934051' />
+    <nd ref='1076934018' />
+    <nd ref='-1144' />
+    <nd ref='-1150' />
+    <nd ref='1287957370' />
+    <tag k='amenity' v='parking' />
+    <tag k='capacity' v='20' />
+    <tag k='name' v='Sina utcai parkoló' />
+    <tag k='operator' v='SZTE' />
+  </way>
+  <way id='126670077' action='delete' timestamp='2014-11-16T18:04:33Z' uid='513712' user='csehpacilla' visible='true' version='6' changeset='26827495'>
+    <tag k='access' v='no' />
+    <tag k='highway' v='service' />
+    <tag k='name' v='Boldogasszony sugárút' />
+    <tag k='psv' v='yes' />
+  </way>
+  <way id='126670397' action='delete' timestamp='2011-08-18T17:29:26Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821'>
+    <tag k='tool' v='width' />
+  </way>
+  <way id='126670417' action='delete' timestamp='2011-08-18T17:29:28Z' uid='55843' user='flaktack' visible='true' version='1' changeset='9058821'>
+    <tag k='tool' v='width' />
+  </way>
+  <way id='126670428' action='delete' timestamp='2015-02-01T13:30:53Z' uid='1719518' user='itamas80' visible='true' version='7' changeset='28545149'>
+    <tag k='electrified' v='contact_line' />
+    <tag k='frequency' v='0' />
+    <tag k='gauge' v='1435' />
+    <tag k='name' v='1, 2' />
+    <tag k='operator' v='SZKT' />
+    <tag k='railway' v='tram' />
+    <tag k='voltage' v='600' />
+  </way>
+  <way id='178329615' action='delete' timestamp='2015-02-01T13:30:53Z' uid='1719518' user='itamas80' visible='true' version='3' changeset='28545149'>
+    <tag k='electrified' v='contact_line' />
+    <tag k='frequency' v='0' />
+    <tag k='gauge' v='1435' />
+    <tag k='name' v='1, 2' />
+    <tag k='operator' v='SZKT' />
+    <tag k='railway' v='tram' />
+    <tag k='voltage' v='600' />
+  </way>
+  <way id='235059179' action='delete' timestamp='2015-03-24T20:05:43Z' uid='1645575' user='GeoLaci' visible='true' version='3' changeset='29712599'>
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='Tisza Lajos körút' />
+  </way>
+  <way id='298980477' action='delete' timestamp='2014-11-16T18:04:33Z' uid='513712' user='csehpacilla' visible='true' version='2' changeset='26827495'>
+    <tag k='access' v='no' />
+    <tag k='highway' v='service' />
+    <tag k='layer' v='-1' />
+    <tag k='name' v='Boldogasszony sugárút' />
+    <tag k='psv' v='yes' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='298980481' action='delete' timestamp='2014-11-16T18:04:33Z' uid='513712' user='csehpacilla' visible='true' version='2' changeset='26827495'>
+    <tag k='access' v='no' />
+    <tag k='highway' v='service' />
+    <tag k='name' v='Boldogasszony sugárút' />
+    <tag k='psv' v='yes' />
+  </way>
+  <relation id='1207520' action='delete' timestamp='2011-01-01T13:48:59Z' uid='201021' user='pethy' visible='true' version='3' changeset='6827944'>
+    <tag k='restriction' v='only_right_turn' />
+    <tag k='type' v='restriction' />
+  </relation>
+  <relation id='1347544' action='delete' timestamp='2010-12-29T20:22:33Z' uid='201021' user='pethy' visible='true' version='1' changeset='6802927'>
+    <tag k='restriction' v='no_u_turn' />
+    <tag k='type' v='restriction' />
+  </relation>
+  <relation id='1352180' action='modify' timestamp='2011-03-05T10:15:22Z' uid='201021' user='pethy' visible='true' version='2' changeset='7461462'>
+    <member type='way' ref='92875889' role='inner' />
+    <member type='way' ref='92875886' role='outer' />
+    <member type='way' ref='-1636' role='buildingpart' />
+    <member type='way' ref='-1598' role='buildingpart' />
+    <member type='way' ref='-1638' role='buildingpart' />
+    <member type='way' ref='-1600' role='buildingpart' />
+    <member type='way' ref='-1602' role='buildingpart' />
+    <member type='way' ref='-1634' role='buildingpart' />
+    <member type='way' ref='-1592' role='buildingpart' />
+    <member type='way' ref='-1632' role='buildingpart' />
+    <member type='way' ref='-1630' role='buildingpart' />
+    <member type='way' ref='-1596' role='buildingpart' />
+    <member type='way' ref='-1626' role='buildingpart' />
+    <member type='way' ref='-1624' role='buildingpart' />
+    <member type='way' ref='-1620' role='buildingpart' />
+    <member type='way' ref='-1622' role='buildingpart' />
+    <member type='way' ref='-1616' role='buildingpart' />
+    <member type='way' ref='-1618' role='buildingpart' />
+    <member type='way' ref='-1614' role='buildingpart' />
+    <member type='way' ref='-1612' role='buildingpart' />
+    <member type='way' ref='-1610' role='buildingpart' />
+    <member type='way' ref='-1608' role='buildingpart' />
+    <member type='way' ref='-1606' role='buildingpart' />
+    <member type='way' ref='-1594' role='buildingpart' />
+    <member type='way' ref='-1604' role='buildingpart' />
+    <member type='way' ref='-1628' role='buildingpart' />
+    <tag k='name' v='Irinyi kabinet' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='1375736' action='delete' timestamp='2012-05-05T18:18:09Z' uid='55843' user='flaktack' visible='true' version='5' changeset='11510822'>
+    <tag k='network' v='Szeged local' />
+    <tag k='operator' v='SZKT' />
+    <tag k='ref' v='1' />
+    <tag k='route_master' v='tram' />
+    <tag k='type' v='route_master' />
+  </relation>
+  <relation id='1426756' action='delete' timestamp='2015-05-13T19:42:58Z' uid='613605' user='Plutoz' visible='true' version='13' changeset='31112785'>
+    <tag k='landuse' v='residential' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='1464573' action='delete' timestamp='2014-08-10T19:34:21Z' uid='2249983' user='Lariuss' visible='true' version='2' changeset='24662271'>
+    <tag k='amenity' v='university' />
+    <tag k='name' v='SZTE Bolyai Intézet' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='1484144' action='delete' timestamp='2011-03-19T18:08:37Z' uid='201021' user='pethy' visible='true' version='1' changeset='7608063'>
+    <tag k='amenity' v='hospital' />
+    <tag k='name' v='Déli Klinikai Tömb' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='1724023' action='delete' timestamp='2015-02-01T13:30:47Z' uid='1719518' user='itamas80' visible='true' version='3' changeset='28545149'>
+    <tag k='name' v='Anna-kút' />
+    <tag k='public_transport' v='stop_area' />
+    <tag k='type' v='public_transport' />
+  </relation>
+  <relation id='1724027' action='delete' timestamp='2011-08-30T16:02:31Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9168607'>
+    <tag k='name' v='Aradi vértanúk tere' />
+    <tag k='operator' v='SZKT' />
+    <tag k='public_transport' v='stop' />
+    <tag k='tram' v='yes' />
+    <tag k='type' v='public_transport' />
+  </relation>
+  <relation id='1724034' action='delete' timestamp='2011-08-30T16:02:32Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9168607'>
+    <tag k='name' v='Bem utca' />
+    <tag k='operator' v='SZKT' />
+    <tag k='public_transport' v='stop' />
+    <tag k='tram' v='yes' />
+    <tag k='type' v='public_transport' />
+  </relation>
+  <relation id='1724039' action='delete' timestamp='2011-08-30T16:02:33Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9168607'>
+    <tag k='name' v='Bécsi körút' />
+    <tag k='operator' v='SZKT' />
+    <tag k='public_transport' v='stop' />
+    <tag k='tram' v='yes' />
+    <tag k='type' v='public_transport' />
+  </relation>
+  <relation id='1724040' action='delete' timestamp='2011-08-30T16:02:33Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9168607'>
+    <tag k='name' v='Bécsi körút' />
+    <tag k='operator' v='SZKT' />
+    <tag k='public_transport' v='stop' />
+    <tag k='tram' v='yes' />
+    <tag k='type' v='public_transport' />
+  </relation>
+  <relation id='1724052' action='delete' timestamp='2011-08-30T16:02:36Z' uid='55843' user='flaktack' visible='true' version='2' changeset='9168607'>
+    <tag k='name' v='Galamb utca' />
+    <tag k='operator' v='SZKT' />
+    <tag k='public_transport' v='stop' />
+    <tag k='tram' v='yes' />
+    <tag k='type' v='public_transport' />
+  </relation>
+  <relation id='1733216' action='delete' timestamp='2015-02-10T01:39:23Z' uid='1719518' user='itamas80' visible='true' version='7' changeset='28741741'>
+    <tag k='from' v='Szeged Plaza' />
+    <tag k='name' v='1 =&gt; Szeged pályaudvar' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Szegedi Közlekedési Kft.' />
+    <tag k='ref' v='1' />
+    <tag k='route' v='tram' />
+    <tag k='to' v='Szeged pályaudvar' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='1733224' action='delete' timestamp='2015-02-10T01:39:22Z' uid='1719518' user='itamas80' visible='true' version='7' changeset='28741741'>
+    <tag k='from' v='Szeged pályaudvar' />
+    <tag k='name' v='1 =&gt; Szeged Plaza' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Szegedi Közlekedési Kft.' />
+    <tag k='ref' v='1' />
+    <tag k='route' v='tram' />
+    <tag k='to' v='Szeged Plaza' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='2380274' action='delete' timestamp='2015-02-10T01:39:34Z' uid='1719518' user='itamas80' visible='true' version='7' changeset='28741741'>
+    <tag k='from' v='Európa liget' />
+    <tag k='name' v='2 =&gt; Szeged pályaudvar' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Szegedi Közlekedési Kft.' />
+    <tag k='ref' v='2' />
+    <tag k='route' v='tram' />
+    <tag k='to' v='Szeged pályaudvar' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='2380275' action='delete' timestamp='2015-02-10T01:39:33Z' uid='1719518' user='itamas80' visible='true' version='7' changeset='28741741'>
+    <tag k='from' v='Szeged pályaudvar' />
+    <tag k='name' v='2 =&gt; Európa liget' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Szegedi Közlekedési Kft.' />
+    <tag k='ref' v='2' />
+    <tag k='route' v='tram' />
+    <tag k='to' v='Európa liget' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='2380276' action='delete' timestamp='2012-08-28T16:39:55Z' uid='55843' user='flaktack' visible='true' version='1' changeset='12894776'>
+    <tag k='network' v='Szeged local' />
+    <tag k='operator' v='SZKT' />
+    <tag k='ref' v='2' />
+    <tag k='route_master' v='tram' />
+    <tag k='type' v='route_master' />
+  </relation>
+  <relation id='2432331' action='delete' timestamp='2015-10-19T15:20:09Z' uid='513712' user='csehpacilla' visible='true' version='21' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='78 =&gt; Napos út – Béketelep – Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='78' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Béketelep – Mars tér' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='2893183' action='delete' timestamp='2015-09-04T14:13:33Z' uid='513712' user='csehpacilla' visible='true' version='22' changeset='33795092'>
+    <tag k='from' v='Tarján, Víztorony tér' />
+    <tag k='name' v='10 =&gt; Klinikák' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='SZKT' />
+    <tag k='ref' v='10' />
+    <tag k='route' v='trolleybus' />
+    <tag k='to' v='Klinikák' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='2897071' action='delete' timestamp='2015-08-23T13:05:31Z' uid='513712' user='csehpacilla' visible='true' version='23' changeset='33524422'>
+    <tag k='from' v='Makkosház' />
+    <tag k='name' v='8 =&gt; Klinikák' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Szegedi Közlekedési Kft.' />
+    <tag k='ref' v='8' />
+    <tag k='route' v='trolleybus' />
+    <tag k='to' v='Klinikák' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3234260' action='delete' timestamp='2015-10-19T15:20:02Z' uid='513712' user='csehpacilla' visible='true' version='8' changeset='34735177'>
+    <tag k='from' v='Kereskedő köz' />
+    <tag k='name' v='64 =&gt; Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='64' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mars tér' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3234261' action='delete' timestamp='2015-10-19T15:20:02Z' uid='513712' user='csehpacilla' visible='true' version='10' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='64 =&gt; Kereskedő köz' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='64' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Kereskedő köz' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3234264' action='delete' timestamp='2015-10-19T15:20:03Z' uid='513712' user='csehpacilla' visible='true' version='11' changeset='34735177'>
+    <tag k='from' v='Repülőtér' />
+    <tag k='name' v='64 =&gt; Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='64' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mars tér' />
+    <tag k='type' v='route' />
+    <tag k='via' v='Kereskedő köz' />
+  </relation>
+  <relation id='3234265' action='delete' timestamp='2015-10-19T15:20:03Z' uid='513712' user='csehpacilla' visible='true' version='12' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='64 =&gt; Repülőtér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='64' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Repülőtér' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3234275' action='delete' timestamp='2015-10-19T15:30:04Z' uid='513712' user='csehpacilla' visible='true' version='12' changeset='34735367'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='75 =&gt; Kiskundorozsma' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='75' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Kiskundorozsma' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3234276' action='delete' timestamp='2015-10-19T15:30:04Z' uid='513712' user='csehpacilla' visible='true' version='14' changeset='34735367'>
+    <tag k='from' v='Kiskundorozsma' />
+    <tag k='name' v='75 =&gt; Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='75' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mars tér' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3235283' action='delete' timestamp='2015-10-19T15:20:09Z' uid='513712' user='csehpacilla' visible='true' version='10' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='78A =&gt; Vértói út – Béketelep – Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='78A' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Béketelep – Mars tér' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3263432' action='delete' timestamp='2015-10-19T15:20:09Z' uid='513712' user='csehpacilla' visible='true' version='10' changeset='34735177'>
+    <tag k='from' v='Szegedi Ipari Logisztikai Központ' />
+    <tag k='name' v='79 =&gt; Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='79' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mars tér' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3263435' action='delete' timestamp='2015-10-19T15:20:13Z' uid='513712' user='csehpacilla' visible='true' version='12' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='79 =&gt; Szegedi Ipari Logisztikai Központ (SZILK)' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='79' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Szegedi Ipari Logisztikai Központ' />
+    <tag k='type' v='route' />
+    <tag k='via' v='AUCHAN;Gumigyár' />
+  </relation>
+  <relation id='3263437' action='delete' timestamp='2015-10-19T15:20:13Z' uid='513712' user='csehpacilla' visible='true' version='9' changeset='34735177'>
+    <tag k='from' v='Fehértói halgazdaság' />
+    <tag k='name' v='79H =&gt; Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='79H' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mars tér' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3263438' action='delete' timestamp='2015-10-19T15:20:13Z' uid='513712' user='csehpacilla' visible='true' version='9' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='79H =&gt; Fehértói halgazdaság' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='79H' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Fehértói halgazdaság' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3263439' action='delete' timestamp='2015-10-19T15:20:14Z' uid='513712' user='csehpacilla' visible='true' version='13' changeset='34735177'>
+    <tag k='from' v='Kiskundorozsma, Sziksósfürdő' />
+    <tag k='name' v='7F =&gt; Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='7F' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mars tér' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3263440' action='delete' timestamp='2015-10-19T15:20:14Z' uid='513712' user='csehpacilla' visible='true' version='11' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='7F =&gt; Sziksósfürdő' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='7F' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Kiskundorozsma, Sziksósfürdő' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='3264193' action='delete' timestamp='2015-10-19T15:20:11Z' uid='513712' user='csehpacilla' visible='true' version='13' changeset='34735177'>
+    <tag k='from' v='Szegedi Ipari Logisztikai Központ' />
+    <tag k='name' v='79 =&gt; Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='79' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mars tér' />
+    <tag k='type' v='route' />
+    <tag k='via' v='Gumigyár;AUCHAN' />
+  </relation>
+  <relation id='4715841' action='delete' timestamp='2015-10-19T15:20:03Z' uid='513712' user='csehpacilla' visible='true' version='4' changeset='34735177'>
+    <tag k='from' v='Repülőtér' />
+    <tag k='name' v='64 =&gt; Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='64' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mars tér' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='4715842' action='delete' timestamp='2015-10-19T15:20:10Z' uid='513712' user='csehpacilla' visible='true' version='5' changeset='34735177'>
+    <tag k='from' v='Szegedi Ipari Logisztikai Központ' />
+    <tag k='name' v='79 =&gt; Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='79' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mars tér' />
+    <tag k='type' v='route' />
+    <tag k='via' v='Gumigyár' />
+  </relation>
+  <relation id='4715843' action='delete' timestamp='2015-10-19T15:20:10Z' uid='513712' user='csehpacilla' visible='true' version='6' changeset='34735177'>
+    <tag k='from' v='Szegedi Ipari Logisztikai Központ' />
+    <tag k='name' v='79 =&gt; Mars tér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='79' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Mars tér' />
+    <tag k='type' v='route' />
+    <tag k='via' v='AUCHAN' />
+  </relation>
+  <relation id='4715844' action='delete' timestamp='2015-10-19T15:20:11Z' uid='513712' user='csehpacilla' visible='true' version='4' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='79 =&gt; Szegedi Ipari Logisztikai Központ (SZILK)' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='79' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Szegedi Ipari Logisztikai Központ' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='4715845' action='delete' timestamp='2015-10-19T15:20:12Z' uid='513712' user='csehpacilla' visible='true' version='4' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='79 =&gt; Szegedi Ipari Logisztikai Központ (SZILK)' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='79' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Szegedi Ipari Logisztikai Központ' />
+    <tag k='type' v='route' />
+    <tag k='via' v='Gumigyár' />
+  </relation>
+  <relation id='4715846' action='delete' timestamp='2015-10-19T15:20:12Z' uid='513712' user='csehpacilla' visible='true' version='6' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='79 =&gt; Szegedi Ipari Logisztikai Központ (SZILK)' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='79' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Szegedi Ipari Logisztikai Központ' />
+    <tag k='type' v='route' />
+    <tag k='via' v='AUCHAN' />
+  </relation>
+  <relation id='4716008' action='delete' timestamp='2015-10-19T15:20:03Z' uid='513712' user='csehpacilla' visible='true' version='3' changeset='34735177'>
+    <tag k='from' v='Mars tér' />
+    <tag k='name' v='64 =&gt; Repülőtér' />
+    <tag k='network' v='Szeged' />
+    <tag k='operator' v='Tisza Volán' />
+    <tag k='ref' v='64' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='Repülőtér' />
+    <tag k='type' v='route' />
+    <tag k='via' v='Kereskedő köz' />
+  </relation>
+</osm>

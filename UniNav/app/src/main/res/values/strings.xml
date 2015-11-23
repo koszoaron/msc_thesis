@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">UniNav</string>
+    <string name="single_space"> </string>
+    <string name="current_location">Current location:</string>
+    <string name="find_my_location">Find my location</string>
+    <string name="destination">Destination:</string>
+    <string name="you_must_select_a_destination">You must select a destination!</string>
+    <string name="select_a_destination_or_wait_for_location">Select a destination or wait for location!</string>
+    <string name="select_a_destination"><![CDATA[< Select a destination >]]></string>
+    <string name="select_or_click_find"><![CDATA[< Select or click Find >]]></string>
+
+</resources>

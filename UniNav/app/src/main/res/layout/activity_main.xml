@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent" >
+    	
+    	<FrameLayout 
+    	    android:id="@+id/flHolder"
+    	    android:layout_width="match_parent"
+    		android:layout_height="match_parent" 
+    		android:gravity="center"
+    		android:background="@android:color/darker_gray" />
+
+    	<ImageButton android:id="@+id/btnNav" 
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+    		android:layout_margin="16dp"
+    		android:layout_alignParentRight="true"
+    		android:layout_alignParentBottom="true"
+    		android:clickable="true"
+    		android:src="@drawable/ic_nav"
+    		android:contentDescription="@string/single_space"
+    		android:background="@drawable/fake_fab" />
+    	
+    	<ImageButton android:id="@+id/btnX" 
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+    		android:layout_margin="16dp"
+    		android:layout_alignParentRight="true"
+    		android:layout_alignParentBottom="true"
+    		android:clickable="true"
+    		android:src="@drawable/ic_x"
+    		android:contentDescription="@string/single_space"
+    		android:background="@drawable/fake_fab_inv"
+    		android:padding="5dp"
+    		android:visibility="gone" />
+    	
+    	<ImageButton android:id="@+id/btnZoom" 
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+    		android:layout_margin="16dp"
+    		android:layout_alignParentRight="true"
+    		android:layout_above="@id/btnX"
+    		android:clickable="true"
+    		android:src="@drawable/ic_zoom"
+    		android:contentDescription="@string/single_space"
+    		android:background="@drawable/fake_fab_inv"
+    		android:padding="5dp"
+    		android:visibility="gone" />
+    	
+    </RelativeLayout>
+    
+    <ListView 
+   	    android:id="@+id/lvDrawer"
+   		android:layout_width="240dp"
+		android:layout_height="match_parent"
+   		android:layout_gravity="left" 
+   		android:choiceMode="singleChoice"
+   		android:divider="@android:color/transparent"
+   		android:dividerHeight="0dp" 
+   		android:background="#111" />
+
+</android.support.v4.widget.DrawerLayout>

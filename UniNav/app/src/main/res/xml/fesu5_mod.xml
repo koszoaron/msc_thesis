@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <bounds minlat='46.2430042' minlon='20.1577127' maxlat='46.2451114' maxlon='20.160352' origin='CGImap 0.4.0 (1866 thorn-02.openstreetmap.org)' />
+  <node id='-2046' action='modify' visible='true' lat='46.24406508819' lon='20.15902724229' />
+  <node id='-2044' action='modify' visible='true' lat='46.24417458084' lon='20.15907048951' />
+  <node id='-2042' action='modify' visible='true' lat='46.24416045295' lon='20.159144254' />
+  <node id='-2040' action='modify' visible='true' lat='46.24405908868' lon='20.15905857116' />
+  <node id='-2038' action='modify' visible='true' lat='46.24416864913' lon='20.15910146016' />
+  <node id='-2036' action='modify' visible='true' lat='46.24412742766' lon='20.15905186502' />
+  <node id='-2034' action='modify' visible='true' lat='46.24412178128' lon='20.15908311306' />
+  <node id='-2032' action='modify' visible='true' lat='46.24413712133' lon='20.15908911815' />
+  <node id='-2030' action='modify' visible='true' lat='46.24412871775' lon='20.15913162488' />
+  <node id='-2028' action='modify' visible='true' lat='46.24413416783' lon='20.15910405744' />
+  <node id='-2026' action='modify' visible='true' lat='46.2440564098' lon='20.15907256003' />
+  <node id='-2024' action='modify' visible='true' lat='46.2441003568' lon='20.15907472614' />
+  <node id='-2022' action='modify' visible='true' lat='46.24409135792' lon='20.15911675742' />
+  <node id='-2020' action='modify' visible='true' lat='46.24410259472' lon='20.15912122914' />
+  <node id='-2018' action='modify' visible='true' lat='46.24410771791' lon='20.15909334338' />
+  
+  <!-- Rooms -->
+  <node id='-2016' action='modify' visible='true' lat='46.24410477761' lon='20.15907645673'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='3' />
+    <tag k='name' v='D1' />
+  </node>
+  <node id='-2014' action='modify' visible='true' lat='46.24413082792' lon='20.1590866545'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='3' />
+    <tag k='name' v='D2' />
+  </node>
+  <node id='-2012' action='modify' visible='true' lat='46.24413570771' lon='20.15909626848'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='3' />
+    <tag k='name' v='D3' />
+  </node>
+  <node id='-2010' action='modify' visible='true' lat='46.24410569717' lon='20.15910434233'>
+    <tag k='indoor' v='door' />
+    <tag k='level' v='3' />
+    <tag k='name' v='D4' />
+  </node>
+  <node id='-208' action='modify' visible='true' lat='46.24409709472' lon='20.1591190404'>
+    <tag k='indoor' v='entrance' />
+    <tag k='level' v='3' />
+    <tag k='name' v='D5' />
+  </node>
+  
+  <way id='-2177' action='modify' visible='true'>
+    <nd ref='-2046' />
+    <nd ref='-2036' />
+    <nd ref='-2044' />
+    <nd ref='-2038' />
+    <nd ref='-2042' />
+    <nd ref='-2030' />
+    <nd ref='-2020' />
+    <nd ref='-208' />
+    <nd ref='-2022' />
+    <tag k='indoor' v='yes' />
+  </way>
+  <way id='-2175' action='modify' visible='true'>
+    <nd ref='-2038' />
+    <nd ref='-2032' />
+    <nd ref='-2014' />
+    <nd ref='-2034' />
+    <nd ref='-2016' />
+    <nd ref='-2024' />
+    <nd ref='-2040' />
+    <nd ref='-2046' />
+    <tag k='indoor' v='yes' />
+  </way>
+  <way id='-2173' action='modify' visible='true'>
+    <nd ref='-2034' />
+    <nd ref='-2036' />
+    <tag k='indoor' v='yes' />
+  </way>
+  <way id='-2171' action='modify' visible='true'>
+    <nd ref='-2032' />
+    <nd ref='-2012' />
+    <nd ref='-2028' />
+    <nd ref='-2030' />
+    <tag k='indoor' v='yes' />
+  </way>
+  <way id='-2169' action='modify' visible='true'>
+    <nd ref='-2024' />
+    <nd ref='-2022' />
+    <tag k='indoor' v='yes' />
+  </way>
+  <way id='-2167' action='modify' visible='true'>
+    <nd ref='-2028' />
+    <nd ref='-2018' />
+    <nd ref='-2010' />
+    <nd ref='-2020' />
+    <tag k='indoor' v='yes' />
+  </way>
+  <relation id='-2214' action='modify' visible='true'>
+    <member type='node' ref='-2036' role='' />
+    <member type='node' ref='-2034' role='' />
+    <member type='node' ref='-2032' role='' />
+    <member type='node' ref='-2038' role='' />
+    <member type='node' ref='-2044' role='' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='3' />
+    <tag k='name' v='Bedroom' />
+  </relation>
+  <relation id='-2212' action='modify' visible='true'>
+    <member type='node' ref='-2040' role='' />
+    <member type='node' ref='-2024' role='' />
+    <member type='node' ref='-2034' role='' />
+    <member type='node' ref='-2036' role='' />
+    <member type='node' ref='-2046' role='' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='3' />
+    <tag k='name' v='Living room' />
+  </relation>
+  <relation id='-2210' action='modify' visible='true'>
+    <member type='node' ref='-2022' role='' />
+    <member type='node' ref='-2024' role='' />
+    <member type='node' ref='-2034' role='' />
+    <member type='node' ref='-2032' role='' />
+    <member type='node' ref='-2028' role='' />
+    <member type='node' ref='-2018' role='' />
+    <member type='node' ref='-2020' role='' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='3' />
+    <tag k='name' v='Hallway' />
+  </relation>
+  <relation id='-2208' action='modify' visible='true'>
+    <member type='node' ref='-2030' role='' />
+    <member type='node' ref='-2020' role='' />
+    <member type='node' ref='-2018' role='' />
+    <member type='node' ref='-2028' role='' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='3' />
+    <tag k='name' v='Bathroom' />
+  </relation>
+  <relation id='-2206' action='modify' visible='true'>
+    <member type='node' ref='-2032' role='' />
+    <member type='node' ref='-2038' role='' />
+    <member type='node' ref='-2042' role='' />
+    <member type='node' ref='-2030' role='' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='3' />
+    <tag k='name' v='Kitchen' />
+  </relation>
+</osm>
