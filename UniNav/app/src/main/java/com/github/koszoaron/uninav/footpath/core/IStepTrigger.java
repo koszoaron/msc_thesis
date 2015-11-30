@@ -1,4 +1,4 @@
-package com.github.koszoaron.uninav.fp.core;
+package com.github.koszoaron.uninav.footpath.core;
 
 /**
  * An interface to be notified about detected steps and their directions. Also

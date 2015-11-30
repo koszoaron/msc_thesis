@@ -5,30 +5,30 @@ package com.github.koszoaron.uninav.pojo;
  * 
  * @author Aron Koszo <koszoaron@gmail.com>
  */
-public class Location2 {
+public class Location {
 	private double latitude;
 	private double longitude;
 	private double elevation;
 	
 	/**
-	 * Creates a new instance of the {@link Location2} class.<br>
+	 * Creates a new instance of the {@link Location} class.<br>
 	 * The elevation is unspecified (set to {@link Double#NaN}).
 	 * 
 	 * @param latitude The latitude in degrees.
 	 * @param longitude The longitude in degrees.
 	 */
-	public Location2(double latitude, double longitude) {
+	public Location(double latitude, double longitude) {
 		this(latitude, longitude, Double.NaN);
 	}
 	
 	/**
-	 * Creates a new instance of the {@link Location2} class.
+	 * Creates a new instance of the {@link Location} class.
 	 * 
 	 * @param latitude The latitude in degrees.
 	 * @param longitude The longitude in degrees.
 	 * @param elevation The elevation above sea level in meters.
 	 */
-	public Location2(double latitude, double longitude, double elevation) {
+	public Location(double latitude, double longitude, double elevation) {
 		this.latitude = latitude;
 		this.longitude = longitude;
 		this.elevation = elevation;

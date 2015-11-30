@@ -1,4 +1,4 @@
-package com.github.koszoaron.uninav.fp.core;
+package com.github.koszoaron.uninav.footpath.core;
 
 import java.util.List;
 import java.util.Timer;

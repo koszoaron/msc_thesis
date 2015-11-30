@@ -1,10 +1,9 @@
-package com.github.koszoaron.uninav.navigation;
+package com.github.koszoaron.uninav.footpath.core;
 
 import java.util.LinkedList;
 import java.util.List;
 
-import com.github.koszoaron.uninav.fp.graph.GraphEdge;
-import com.github.koszoaron.uninav.pojo.FpConfig;
+import com.github.koszoaron.uninav.footpath.graph.GraphEdge;
 
 /**
  * Best fit positioner algorithm.

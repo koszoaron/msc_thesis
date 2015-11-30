@@ -1,4 +1,4 @@
-package com.github.koszoaron.uninav.fp.graph;
+package com.github.koszoaron.uninav.footpath.graph;
 
 /**
  * A class to represent an edge in the map/graph.

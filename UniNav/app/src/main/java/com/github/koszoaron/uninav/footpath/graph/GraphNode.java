@@ -1,4 +1,4 @@
-package com.github.koszoaron.uninav.fp.graph;
+package com.github.koszoaron.uninav.footpath.graph;
 
 import java.util.LinkedList;
 
