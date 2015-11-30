@@ -1,5 +1,7 @@
 package com.github.koszoaron.uninav.provider;
 
+import com.github.koszoaron.uninav.pojo.Location;
+
 /**
  * Common interface for location provider classes.
  * 
@@ -11,5 +13,5 @@ public interface ILocationProvider {
 	 * 
 	 * @return An array of three double precision numbers: latitude, longitude and height above sea level (in meters).
 	 */
-	public double[] getLastLoc();
+	public Location getLastLoc();
 }

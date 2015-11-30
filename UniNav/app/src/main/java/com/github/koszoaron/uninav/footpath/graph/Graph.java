@@ -11,7 +11,7 @@ import org.osmdroid.util.GeoPoint;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 
-import com.github.koszoaron.uninav.pojo.LatLonPos;
+import com.github.koszoaron.uninav.pojo.Location;
 
 import android.content.Context;
 import android.content.res.XmlResourceParser;
@@ -528,7 +528,7 @@ public class Graph {
 	 * @param maxMeters limit of distance to a node
 	 * @return the closest GraphNode
 	 */
-	public GraphNode getClosestNodeToLatLonPos(LatLonPos pos, float level, boolean indoor, int maxMeters) {
+	public GraphNode getClosestNodeToLatLonPos(Location pos, float level, boolean indoor, int maxMeters) {
 		double minDistance = Double.MAX_VALUE;
 		double tempDistance = Double.MAX_VALUE;
 		GraphNode minDistNode = null;
@@ -553,7 +553,7 @@ public class Graph {
 		}
 	}
 	
-	public double getClosestDistanceToNode(LatLonPos pos, float level, boolean indoor) {
+	public double getClosestDistanceToNode(Location pos, float level, boolean indoor) {
 		double minDistance = Double.MAX_VALUE;
 		double tempDistance = Double.MAX_VALUE;
 		
@@ -748,8 +748,8 @@ public class Graph {
 	 * @param node1 second node
 	 * @return the distance in meters
 	 */
-	private double getDistance(LatLonPos pos0, GraphNode node1) {
-		return getDistance(pos0.getLat(), pos0.getLon(), node1.getLat(), node1.getLon());
+	private double getDistance(Location pos0, GraphNode node1) {
+		return getDistance(pos0.getLatitude(), pos0.getLongitude(), node1.getLat(), node1.getLon());
 	}
 
 	/**
@@ -833,4 +833,104 @@ public class Graph {
 		
 		return nodeArray;
 	}
+
+	/**
+	 * A class to represent a way in the map/graph.
+	 *
+	 * @author Paul Smith
+	 * @author Aron Koszo <koszoaron@gmail.com>
+	 */
+	public class GraphWay {
+
+		/** All nodes on this path (ref0 -> ref1 -> ref2  -> ...) */
+		private LinkedList<Long> refs;
+		private int id;
+
+		/* >0 := number correct steps given
+         *  0 := no steps
+         * -1 := undefined number of steps
+         * -2 := elevator */
+		private int numSteps = 0;
+
+		private float level;  /* Float.MAX_VALUE == undefined */
+		private boolean isIndoor;
+		private boolean footway = false;
+		private boolean wall = false;
+
+		/**
+		 * Constructor to create an empty way.
+		 */
+		public GraphWay() {
+			this.refs = new LinkedList<>();
+			this.id = 0;
+			this.level = Float.MAX_VALUE;
+		}
+
+		public LinkedList<Long> getRefs() {
+			return refs;
+		}
+
+		public void addRef(long ref) {
+			this.refs.add(ref);
+		}
+
+		public int getId() {
+			return id;
+		}
+
+		public void setId(int id) {
+			this.id = id;
+		}
+
+		public float getLevel() {
+			return level;
+		}
+
+		public void setLevel(float level) {
+			this.level = level;
+		}
+
+		public int getSteps() {
+			return numSteps;
+		}
+
+		public void setSteps(int numSteps) {
+			this.numSteps = numSteps;
+		}
+
+		public boolean isIndoor() {
+			return isIndoor;
+		}
+
+		public void setIndoor(boolean isIndoor) {
+			this.isIndoor = isIndoor;
+		}
+
+		public boolean isFootway() {
+			return this.footway;
+		}
+
+		public void setFootway(boolean footway) {
+			this.footway = footway;
+		}
+
+		public boolean isWall() {
+			return this.wall;
+		}
+
+		public void setWall(boolean wall) {
+			this.wall = wall;
+		}
+
+		public String toString(){
+			String ret = "\nWay(" + this.id +"): ";
+			ret += "\nRefs:";
+			for (Long ref : refs) {
+				ret += "\n    " + ref.intValue();
+			}
+
+			return ret;
+		}
+	}
+
 }

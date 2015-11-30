@@ -11,7 +11,7 @@ import com.github.koszoaron.uninav.footpath.graph.GraphEdge;
  * @author Paul Smith
  * @author Aron Koszo <koszoaron@gmail.com>
  */
-public class BestFitPositioner extends AbsPositioner {
+public class BestFitPositioner {
 	
 	private static final int INITIAL_DYN_SIZE = 2;
 	
@@ -85,8 +85,24 @@ public class BestFitPositioner extends AbsPositioner {
 			}
 		}		
 	}
-	
-	@Override
+
+	/**
+	 * Check if the difference of the given angles in degrees is less than the given alowed difference
+	 * @param v the first angle
+	 * @param t the second angle
+	 * @param diff the allowed difference
+	 * @return true if v <= diff away from t
+	 */
+	public static boolean isInRange(double v, double t, double diff) {
+		if (Math.abs(v - t) <= diff) {
+			return true;
+		}
+		if (Math.abs((v + diff) % 360 - (t + diff) % 360) <= diff) {
+			return true;
+		}
+		return false;
+	}
+
 	public void addStep(double direction) {
 		if (firstStep) {
 			dyn[0][0] = Double.POSITIVE_INFINITY;
@@ -145,7 +161,6 @@ public class BestFitPositioner extends AbsPositioner {
 		conf.unmatchedSteps = conf.matchedSteps - yMin;
 	}
 	
-	@Override
 	public double getProgress() {
 		return progress;
 	}
@@ -185,6 +200,45 @@ public class BestFitPositioner extends AbsPositioner {
 		}
 			
 		return (diagonal ? ret : (ret + 1.5));
+	}
+
+	/**
+	 * Holder for the navigation configuration.
+	 *
+	 * @author Paul Smith
+	 * @author Aron Koszo <koszoaron@gmail.com>
+	 */
+	public class FpConfig {
+		/** Points to the current edge we are walking on. */
+		public int edgePointer;
+		/** How far we have come on this edge. */
+		public double currentLen;
+		/** How many total matched steps we have. */
+		public int matchedSteps;
+		/** How many unmatched steps we have since the last matched step. */
+		public int unmatchedSteps;
+		/** Which step the last matched step is. */
+		public int lastMatchedStep;
+		/** The step size. */
+		public double stepSize;
+
+		public FpConfig() {
+			this.edgePointer = 0;
+			this.currentLen = 0.0;
+			this.unmatchedSteps = 0;
+			this.lastMatchedStep = 0;
+			this.matchedSteps = 0;
+			this.stepSize = 1.0; /* 1.0 meter */
+		}
+
+		public FpConfig(FpConfig conf) {
+			this.currentLen = conf.currentLen;
+			this.lastMatchedStep = conf.lastMatchedStep;
+			this.matchedSteps = conf.matchedSteps;
+			this.edgePointer = conf.edgePointer;
+			this.stepSize = conf.stepSize;
+			this.unmatchedSteps = conf.unmatchedSteps;
+		}
 	}
 	
 }

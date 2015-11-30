@@ -2,7 +2,7 @@ package com.github.koszoaron.uninav.footpath.graph;
 
 import java.util.LinkedList;
 
-import com.github.koszoaron.uninav.pojo.LatLonPos;
+import com.github.koszoaron.uninav.pojo.Location;
 
 /**
  * A class to represent a node in the map/graph.
@@ -40,12 +40,8 @@ public class GraphNode {
 	 * 
 	 * @return the new LatLonPos object of this node's location
 	 */
-	public LatLonPos getPos() {
-		LatLonPos ret = new LatLonPos();
-		ret.setLat(lat);
-		ret.setLon(lon);
-		ret.setLevel(level);
-		return ret;
+	public Location getPos() {
+		return new Location(lat, lon, level);
 	}
 	
 	public double getLat() {

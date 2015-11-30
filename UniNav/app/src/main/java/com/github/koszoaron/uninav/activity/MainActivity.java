@@ -20,10 +20,10 @@ import android.widget.Toast;
 
 import com.github.koszoaron.uninav.R;
 import com.github.koszoaron.uninav.Util;
-import com.github.koszoaron.uninav.fp.graph.Graph;
-import com.github.koszoaron.uninav.fp.graph.GraphEdge;
-import com.github.koszoaron.uninav.fp.graph.GraphNode;
-import com.github.koszoaron.uninav.navigation.AbsPositioner;
+import com.github.koszoaron.uninav.footpath.core.BestFitPositioner;
+import com.github.koszoaron.uninav.footpath.graph.Graph;
+import com.github.koszoaron.uninav.footpath.graph.GraphEdge;
+import com.github.koszoaron.uninav.footpath.graph.GraphNode;
 
 import org.osmdroid.bonuspack.overlays.Polyline;
 import org.osmdroid.tileprovider.tilesource.TileSourceFactory;
@@ -279,7 +279,7 @@ public class MainActivity extends AppCompatActivity {
                             && edgeI.isElevator() == edgeJ.isElevator()
                             && edgeI.isIndoor() == edgeJ.isIndoor()
                             && edgeI.isStairs() == edgeJ.isStairs()
-                            && AbsPositioner.isInRange(edgeI.getCompDir(), tempEdges.get(j).getCompDir(), diff)) {
+                            && BestFitPositioner.isInRange(edgeI.getCompDir(), tempEdges.get(j).getCompDir(), diff)) {
 
 						/* edge_i and edge_j can be merged
 						 * save the last node1 of last edge_j equaling edge_i */

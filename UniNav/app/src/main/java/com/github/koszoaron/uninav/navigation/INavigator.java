@@ -2,9 +2,9 @@ package com.github.koszoaron.uninav.navigation;
 
 import java.util.List;
 
-import com.github.koszoaron.uninav.fp.graph.GraphEdge;
-import com.github.koszoaron.uninav.fp.graph.GraphNode;
-import com.github.koszoaron.uninav.pojo.LatLonPos;
+import com.github.koszoaron.uninav.footpath.graph.GraphEdge;
+import com.github.koszoaron.uninav.footpath.graph.GraphNode;
+import com.github.koszoaron.uninav.pojo.Location;
 
 import org.osmdroid.bonuspack.overlays.Polyline;
 
@@ -21,7 +21,7 @@ public interface INavigator {
 	
 	public List<Polyline> getWalls(float level);
 	
-	public LatLonPos getPosition();
+	public Location getPosition();
 	
 	public double getCompassValue();
 	

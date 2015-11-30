@@ -1,7 +1,7 @@
 package com.github.koszoaron.uninav.provider;
 
 import com.github.koszoaron.uninav.pojo.IrMessage;
-import com.github.koszoaron.uninav.pojo.Location2;
+import com.github.koszoaron.uninav.pojo.Location;
 
 import android.util.SparseArray;
 
@@ -14,11 +14,11 @@ public class IrProvider implements ILocationProvider {
 	
 	private static IrProvider INSTANCE = null;
 	
-	private Location2 lastLocation = new Location2(Double.NaN, Double.NaN);
-	private SparseArray<Location2> irLocationsList;
+	private Location lastLocation = new Location(Double.NaN, Double.NaN);
+	private SparseArray<Location> locationsList;
 	
 	private IrProvider() {
-		irLocationsList = new SparseArray<Location2>();
+		locationsList = new SparseArray<Location>();
 		
 		//TODO load the ir locations data into the list;
 	}
@@ -35,10 +35,8 @@ public class IrProvider implements ILocationProvider {
 	}
 	
 	@Override
-	public double[] getLastLoc() {
-		double[] res = { lastLocation.getLatitude(), lastLocation.getLongitude(), lastLocation.getElevation() };
-		
-		return res;
+	public Location getLastLoc() {
+		return lastLocation;
 	}
 	
 	/**
@@ -48,7 +46,7 @@ public class IrProvider implements ILocationProvider {
 	 */
 	public void onIrMessageArrival(IrMessage msg) {
 		if (msg != null) {
-			Location2 irLoc = irLocationsList.get(msg.getCode());
+			Location irLoc = locationsList.get(msg.getCode());
 			if (irLoc != null) {
 				lastLocation = irLoc;
 			}
