@@ -1,3 +1,22 @@
+/**
+ * Copyright (C) 2015 Aron Koszo
+ *
+ * This file is part of UniNav.
+ *
+ * UniNav is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * UniNav is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with UniNav.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
 package com.github.koszoaron.uninav.activity;
 
 import android.app.AlertDialog;
@@ -29,6 +48,8 @@ import org.osmdroid.bonuspack.overlays.Polyline;
 import org.osmdroid.tileprovider.tilesource.TileSourceFactory;
 import org.osmdroid.util.GeoPoint;
 import org.osmdroid.views.MapView;
+import org.osmdroid.views.overlay.ItemizedIconOverlay;
+import org.osmdroid.views.overlay.OverlayItem;
 import org.xmlpull.v1.XmlPullParserException;
 
 import java.io.IOException;
@@ -37,6 +58,10 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
+/**
+ *
+ * @author Aron Koszo <koszoaron@gmail.com>
+ */
 public class MainActivity extends AppCompatActivity {
 
     private ListView lvDrawer;
@@ -348,6 +373,18 @@ public class MainActivity extends AppCompatActivity {
             p.setWidth(2);
             p.setColor(Color.GREEN);
             mvOsm.getOverlays().add(p);
+
+
+            GeoPoint startPoint = new GeoPoint(pathEdges.get(1).getNode0().getLat(), pathEdges.get(1).getNode0().getLon());
+            //GraphNode startNode = graph.getNodeFromName(nodeStart);
+            //GeoPoint startPoint = new GeoPoint(startNode.getLat(), startNode.getLon());
+            OverlayItem item = new OverlayItem("", "", startPoint);
+            item.setMarker(getResources().getDrawable(R.drawable.arrowred));
+            List<OverlayItem> oList = new ArrayList<>();
+            oList.add(item);
+            ItemizedIconOverlay overlay = new ItemizedIconOverlay(MainActivity.this, oList, null);
+            mvOsm.getOverlays().add(overlay);
+
             mvOsm.invalidate();
         } else { /* navPathStack was null */
             this.setResult(RESULT_CANCELED);
